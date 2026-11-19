@@ -1,0 +1,20 @@
+{
+  "exported_at": "2026-11-19T21:16:07+00:00",
+  "git_commit": "5deb9c9",
+  "respondents": 6760929,
+  "item_answers": 539108211,
+  "rows": {
+    "question_results": 37416,
+    "index_scores": 2837,
+    "leave_intent": 432,
+    "paradox": 192,
+    "reconciliation": 72,
+    "questions": 271,
+    "crosswalk": 1070,
+    "wording_decisions": 44,
+    "paradox_questions": 4,
+    "index_items": 28,
+    "leave_codes": 52
+  },
+  "min_cell_respondents": 10
+}
