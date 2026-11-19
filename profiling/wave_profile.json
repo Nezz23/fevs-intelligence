@@ -1,0 +1,735 @@
+{
+ "2012": {
+  "rows": 687687,
+  "n_items": 83,
+  "first_item": [
+   "Q1"
+  ],
+  "last_item": [
+   "Q84"
+  ],
+  "other_cols": [
+   "UserID",
+   "AGENCY",
+   "SUBELEM",
+   "DSUPER",
+   "DSEX",
+   "DMINORITY",
+   "DAGEGRP",
+   "DFEDTEN",
+   "DLEAVING",
+   "DRETIRE",
+   "DMIL",
+   "DDIS",
+   "POSTWT"
+  ],
+  "codes_first_item": [
+   [
+    "1",
+    38591
+   ],
+   [
+    "2",
+    96115
+   ],
+   [
+    "3",
+    111216
+   ],
+   [
+    "4",
+    301201
+   ],
+   [
+    "5",
+    139376
+   ],
+   [
+    null,
+    1188
+   ]
+  ],
+  "weight": "POSTWT",
+  "weight_min_max_sum": [
+   0.6961960653,
+   73.261548211,
+   1870341.3547942922
+  ]
+ },
+ "2013": {
+  "rows": 376577,
+  "n_items": 83,
+  "first_item": [
+   "Q1"
+  ],
+  "last_item": [
+   "Q84"
+  ],
+  "other_cols": [
+   "USERID",
+   "POSTWT",
+   "agency",
+   "PLEVEL1",
+   "PLEVEL2",
+   "DSUPER",
+   "DSEX",
+   "DMINORITY",
+   "DAGEGRP",
+   "DPAYCAT",
+   "DFEDTEN",
+   "DRETIRE",
+   "DDIS",
+   "DMIL",
+   "DLEAVING"
+  ],
+  "codes_first_item": [
+   [
+    "1",
+    24363
+   ],
+   [
+    "2",
+    57697
+   ],
+   [
+    "3",
+    63844
+   ],
+   [
+    "4",
+    159856
+   ],
+   [
+    "5",
+    70077
+   ],
+   [
+    null,
+    740
+   ]
+  ],
+  "weight": "POSTWT",
+  "weight_min_max_sum": [
+   0.7937002036,
+   752.82424515,
+   1781250.0892748323
+  ]
+ },
+ "2014": {
+  "rows": 392752,
+  "n_items": 84,
+  "first_item": [
+   "Q1"
+  ],
+  "last_item": [
+   "Q84"
+  ],
+  "other_cols": [
+   "USERID",
+   "POSTWT",
+   "agency",
+   "PLEVEL1",
+   "PLEVEL2",
+   "DSUPER",
+   "DSEX",
+   "DMINORITY",
+   "DEDUC",
+   "DPAYCAT",
+   "DFEDTEN",
+   "DRETIRE",
+   "DDIS",
+   "DAGEGRP",
+   "DMIL",
+   "DLEAVING"
+  ],
+  "codes_first_item": [
+   [
+    "1",
+    27184
+   ],
+   [
+    "2",
+    61720
+   ],
+   [
+    "3",
+    66213
+   ],
+   [
+    "4",
+    163079
+   ],
+   [
+    "5",
+    73781
+   ],
+   [
+    null,
+    775
+   ]
+  ],
+  "weight": "POSTWT",
+  "weight_min_max_sum": [
+   0.4249132294,
+   80.968928172,
+   1771300.56272523
+  ]
+ },
+ "2015": {
+  "rows": 421748,
+  "n_items": 83,
+  "first_item": [
+   "Q1"
+  ],
+  "last_item": [
+   "Q84"
+  ],
+  "other_cols": [
+   "POSTWT",
+   "agency",
+   "PLEVEL1",
+   "PLEVEL2",
+   "DSUPER",
+   "DSEX",
+   "DMINORITY",
+   "DEDUC",
+   "DFEDTEN",
+   "DRETIRE",
+   "DDIS",
+   "DAGEGRP",
+   "DMIL",
+   "DLEAVING",
+   "RANDOM"
+  ],
+  "codes_first_item": [
+   [
+    "1",
+    27734
+   ],
+   [
+    "2",
+    60740
+   ],
+   [
+    "3",
+    67390
+   ],
+   [
+    "4",
+    177225
+   ],
+   [
+    "5",
+    87752
+   ],
+   [
+    null,
+    907
+   ]
+  ],
+  "weight": "POSTWT",
+  "weight_min_max_sum": [
+   0.705966437,
+   56.46841208,
+   1755514.7347551642
+  ]
+ },
+ "2016": {
+  "rows": 407789,
+  "n_items": 70,
+  "first_item": [
+   "Q1"
+  ],
+  "last_item": [
+   "Q71"
+  ],
+  "other_cols": [
+   "AGENCY",
+   "plevel1",
+   "DSUPER",
+   "DSEX",
+   "DAGEGRP",
+   "DMINORITY",
+   "DLEAVING",
+   "POSTWT",
+   "RANDOM"
+  ],
+  "codes_first_item": [
+   [
+    "1",
+    24813
+   ],
+   [
+    "2",
+    53286
+   ],
+   [
+    "3",
+    62150
+   ],
+   [
+    "4",
+    173678
+   ],
+   [
+    "5",
+    93065
+   ],
+   [
+    null,
+    797
+   ]
+  ],
+  "weight": "POSTWT",
+  "weight_min_max_sum": [
+   0.743446305,
+   68.90383246,
+   1800344.984996024
+  ]
+ },
+ "2017": {
+  "rows": 486105,
+  "n_items": 70,
+  "first_item": [
+   "Q1"
+  ],
+  "last_item": [
+   "Q71"
+  ],
+  "other_cols": [
+   "AGENCY",
+   "LEVEL1",
+   "DSEX",
+   "DEDUC",
+   "DFEDTEN",
+   "DSUPER",
+   "DMINORITY",
+   "DLEAVING",
+   "POSTWT"
+  ],
+  "codes_first_item": [
+   [
+    "1",
+    27118
+   ],
+   [
+    "2",
+    60332
+   ],
+   [
+    "3",
+    73882
+   ],
+   [
+    "4",
+    208416
+   ],
+   [
+    "5",
+    115445
+   ],
+   [
+    null,
+    912
+   ]
+  ],
+  "weight": "POSTWT",
+  "weight_min_max_sum": [
+   0.702619461,
+   57.73082395,
+   1823013.7507882896
+  ]
+ },
+ "2018": {
+  "rows": 598003,
+  "n_items": 70,
+  "first_item": [
+   "Q1"
+  ],
+  "last_item": [
+   "Q71"
+  ],
+  "other_cols": [
+   "AGENCY",
+   "LEVEL1",
+   "DSEX",
+   "DEDUC",
+   "DFEDTEN",
+   "DSUPER",
+   "DMINORITY",
+   "DLEAVING",
+   "POSTWT",
+   "RANDOM"
+  ],
+  "codes_first_item": [
+   [
+    "1",
+    31944
+   ],
+   [
+    "2",
+    72680
+   ],
+   [
+    "3",
+    89450
+   ],
+   [
+    "4",
+    255535
+   ],
+   [
+    "5",
+    143843
+   ],
+   [
+    null,
+    4551
+   ]
+  ],
+  "weight": "POSTWT",
+  "weight_min_max_sum": [
+   0.715989056,
+   21.95705328,
+   1493895.3913082187
+  ]
+ },
+ "2019": {
+  "rows": 615395,
+  "n_items": 84,
+  "first_item": [
+   "Q1"
+  ],
+  "last_item": [
+   "Q77"
+  ],
+  "other_cols": [
+   "AGENCY",
+   "LEVEL1",
+   "DSEX",
+   "DEDUC",
+   "DFEDTEN",
+   "DSUPER",
+   "DMINORITY",
+   "DLEAVING",
+   "POSTWT",
+   "RANDOM"
+  ],
+  "codes_first_item": [
+   [
+    "1",
+    31837
+   ],
+   [
+    "2",
+    70710
+   ],
+   [
+    "3",
+    89669
+   ],
+   [
+    "4",
+    262932
+   ],
+   [
+    "5",
+    156071
+   ],
+   [
+    null,
+    4176
+   ]
+  ],
+  "weight": "POSTWT",
+  "weight_min_max_sum": [
+   0.567540088,
+   26.78093639,
+   1394911.5771678416
+  ]
+ },
+ "2020": {
+  "rows": 624800,
+  "n_items": 120,
+  "first_item": [
+   "Q1"
+  ],
+  "last_item": [
+   "V24"
+  ],
+  "other_cols": [
+   "RandomID",
+   "agency",
+   "DRNO",
+   "DHISP",
+   "DDIS",
+   "DAGEGRP",
+   "DSUPER",
+   "DFEDTEN",
+   "DSEX",
+   "DMIL",
+   "DLEAVINGA",
+   "DLEAVINGB",
+   "DLEAVINGC",
+   "POSTWT"
+  ],
+  "codes_first_item": [
+   [
+    "1",
+    26228
+   ],
+   [
+    "2",
+    59629
+   ],
+   [
+    "3",
+    91628
+   ],
+   [
+    "4",
+    272216
+   ],
+   [
+    "5",
+    170246
+   ],
+   [
+    null,
+    4853
+   ]
+  ],
+  "weight": "POSTWT",
+  "weight_min_max_sum": [
+   0.7774418505,
+   19.120676605,
+   1452901.3141009416
+  ]
+ },
+ "2021": {
+  "rows": 292520,
+  "n_items": 67,
+  "first_item": [
+   "Q1"
+  ],
+  "last_item": [
+   "Q57"
+  ],
+  "other_cols": [
+   "RandomID",
+   "agency",
+   "DRNO",
+   "DHISP",
+   "DDIS",
+   "DAGEGRP",
+   "DSUPER",
+   "DFEDTEN",
+   "DSEX",
+   "DMIL",
+   "DLEAVING",
+   "POSTWT"
+  ],
+  "codes_first_item": [
+   [
+    "1",
+    12740
+   ],
+   [
+    "2",
+    27136
+   ],
+   [
+    "3",
+    40433
+   ],
+   [
+    "4",
+    123469
+   ],
+   [
+    "5",
+    87296
+   ],
+   [
+    null,
+    1446
+   ]
+  ],
+  "weight": "POSTWT",
+  "weight_min_max_sum": [
+   0.7869454471,
+   788.70800005,
+   1698731.6799604953
+  ]
+ },
+ "2022": {
+  "rows": 557778,
+  "n_items": 90,
+  "first_item": [
+   "Q1"
+  ],
+  "last_item": [
+   "Q99"
+  ],
+  "other_cols": [
+   "RandomID",
+   "agency",
+   "DRNO",
+   "DHISP",
+   "DDIS",
+   "DAGEGRP",
+   "DSUPER",
+   "DFEDTEN",
+   "DSEX",
+   "DMIL",
+   "DLEAVING",
+   "POSTWT"
+  ],
+  "codes_first_item": [
+   [
+    "1",
+    26165
+   ],
+   [
+    "2",
+    55811
+   ],
+   [
+    "3",
+    81224
+   ],
+   [
+    "4",
+    237917
+   ],
+   [
+    "5",
+    153074
+   ],
+   [
+    null,
+    3587
+   ]
+  ],
+  "weight": "POSTWT",
+  "weight_min_max_sum": [
+   0.720584108,
+   42.94853111,
+   1669683.16515939
+  ]
+ },
+ "2023": {
+  "rows": 625568,
+  "n_items": 83,
+  "first_item": [
+   "Q1"
+  ],
+  "last_item": [
+   "Q91"
+  ],
+  "other_cols": [
+   "RandomID",
+   "agency",
+   "DRNO",
+   "DHISP",
+   "DDIS",
+   "DAGEGRP",
+   "DSUPER",
+   "DFEDTEN",
+   "DSEX",
+   "DMIL",
+   "DLEAVING",
+   "POSTWT",
+   "Year"
+  ],
+  "codes_first_item": [
+   [
+    "1",
+    27218
+   ],
+   [
+    "2",
+    59201
+   ],
+   [
+    "3",
+    86340
+   ],
+   [
+    "4",
+    266313
+   ],
+   [
+    "5",
+    182850
+   ],
+   [
+    null,
+    3646
+   ]
+  ],
+  "weight": "POSTWT",
+  "weight_min_max_sum": [
+   0.614623699,
+   25.29888253,
+   1691257.4345814283
+  ]
+ },
+ "2024": {
+  "rows": 674207,
+  "n_items": 83,
+  "first_item": [
+   "Q1"
+  ],
+  "last_item": [
+   "Q91"
+  ],
+  "other_cols": [
+   "RandomID",
+   "POSTWT",
+   "agency",
+   "level1",
+   "DRNO",
+   "DHISP",
+   "DDIS",
+   "DAGEGRP",
+   "DSUPER",
+   "DFEDTEN",
+   "DSEX",
+   "DMIL",
+   "DLEAVING"
+  ],
+  "codes_first_item": [
+   [
+    "1",
+    27319
+   ],
+   [
+    "2",
+    59396
+   ],
+   [
+    "3",
+    90512
+   ],
+   [
+    "4",
+    287532
+   ],
+   [
+    "5",
+    205864
+   ],
+   [
+    null,
+    3584
+   ]
+  ],
+  "weight": "POSTWT",
+  "weight_min_max_sum": [
+   0.6671443391,
+   14.085054433,
+   1687680.2255589603
+  ]
+ }
+}

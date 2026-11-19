@@ -1,0 +1,1071 @@
+wave,item_code,question_id,item_text,wording_status,scale_source
+2012,Q1,fq001,I am given a real opportunity to improve my skills in my organization.,first,inherited
+2012,Q2,fq002,I have enough information to do my job well.,first,inherited
+2012,Q3,fq003,I feel encouraged to come up with new and better ways of doing things.,first,inherited
+2012,Q4,fq004,My work gives me a feeling of personal accomplishment.,first,inherited
+2012,Q5,fq005,I like the kind of work I do.,first,inherited
+2012,Q6,fq006,I know what is expected of me on the job.,first,inherited
+2012,Q7,fq007,When needed I am willing to put in the extra effort to get a job done.,first,inherited
+2012,Q8,fq008,I am constantly looking for ways to do my job better.,first,inherited
+2012,Q9,fq009,"I have sufficient resources (for example, people, materials, budget) to get my job done.",first,inherited
+2012,Q10,fq010,My workload is reasonable.,first,inherited
+2012,Q11,fq011,My talents are used well in the workplace.,first,inherited
+2012,Q12,fq012,I know how my work relates to the agency's goals and priorities.,first,inherited
+2012,Q13,fq013,The work I do is important.,first,inherited
+2012,Q14,fq014,"Physical conditions (for example, noise level, temperature, lighting, cleanliness in the workplace) allow employees to perform their jobs well.",first,inherited
+2012,Q15,fq015,My performance appraisal is a fair reflection of my performance.,first,inherited
+2012,Q16,fq016,I am held accountable for achieving results.,first,inherited
+2012,Q17,fq017,"I can disclose a suspected violation of any law, rule or regulation without fear of reprisal.",first,inherited
+2012,Q18,fq018,My training needs are assessed.,first,inherited
+2012,Q19,fq019,"In my most recent performance appraisal, I understood what I had to do to be rated at different performance levels (for example, Fully Successful, Outstanding).",first,inherited
+2012,Q20,fq020,The people I work with cooperate to get the job done.,first,inherited
+2012,Q21,fq021,My work unit is able to recruit people with the right skills.,first,inherited
+2012,Q22,fq022,Promotions in my work unit are based on merit.,first,inherited
+2012,Q23,fq023,"In my work unit, steps are taken to deal with a poor performer who cannot or will not improve.",first,inherited
+2012,Q24,fq024,"In my work unit, differences in performance are recognized in a meaningful way.",first,inherited
+2012,Q25,fq025,Awards in my work unit depend on how well employees perform their jobs.,first,inherited
+2012,Q26,fq026,Employees in my work unit share job knowledge with each other.,first,inherited
+2012,Q27,fq027,The skill level in my work unit has improved in the past year.,first,inherited
+2012,Q28,fq028,How would you rate the overall quality of work done by your work unit?,first,inherited
+2012,Q29,fq029,The workforce has the job-relevant knowledge and skills necessary to accomplish organizational goals.,first,inherited
+2012,Q30,fq030,Employees have a feeling of personal empowerment with respect to work processes.,first,inherited
+2012,Q31,fq031,Employees are recognized for providing high quality products and services.,first,inherited
+2012,Q32,fq032,Creativity and innovation are rewarded.,first,inherited
+2012,Q33,fq033,Pay raises depend on how well employees perform their jobs.,first,inherited
+2012,Q35,fq034,Employees are protected from health and safety hazards on the job.,first,inherited
+2012,Q36,fq035,My organization has prepared employees for potential security threats.,first,inherited
+2012,Q37,fq036,"Arbitrary action, personal favoritism and coercion for partisan political purposes are not tolerated.",first,inherited
+2012,Q38,fq037,"Prohibited Personnel Practices (for example, illegally discriminating for or against any employee/applicant, obstructing a person's right to compete for employment, knowingly violating veterans' preference requirements) are not tolerated.",first,inherited
+2012,Q39,fq038,My agency is successful at accomplishing its mission.,first,inherited
+2012,Q40,fq039,I recommend my organization as a good place to work.,first,inherited
+2012,Q41,fq040,I believe the results of this survey will be used to make my agency a better place to work.,first,inherited
+2012,Q42,fq041,My supervisor supports my need to balance work and other life issues.,first,inherited
+2012,Q43,fq042,My supervisor/team leader provides me with opportunities to demonstrate my leadership skills.,first,none
+2012,Q44,fq043,Discussions with my supervisor/team leader about my performance are worthwhile.,first,none
+2012,Q45,fq044,My supervisor/team leader is committed to a workforce representative of all segments of society.,first,none
+2012,Q46,fq045,My supervisor/team leader provides me with constructive suggestions to improve my job performance.,first,none
+2012,Q47,fq046,Supervisors/team leaders in my work unit support employee development.,first,none
+2012,Q48,fq047,My supervisor/team leader listens to what I have to say.,first,none
+2012,Q49,fq048,My supervisor/team leader treats me with respect.,first,none
+2012,Q50,fq049,"In the last six months, my supervisor/team leader has talked with me about my performance.",first,none
+2012,Q51,fq050,I have trust and confidence in my supervisor.,first,inherited
+2012,Q52,fq051,"Overall, how good a job do you feel is being done by your immediate supervisor/team leader?",first,none
+2012,Q53,fq052,"In my organization, leaders generate high levels of motivation and commitment in the workforce.",first,none
+2012,Q54,fq053,My organization's leaders maintain high standards of honesty and integrity.,first,none
+2012,Q55,fq054,Managers/supervisors/team leaders work well with employees of different backgrounds.,first,none
+2012,Q56,fq055,Managers communicate the goals and priorities of the organization.,first,inherited
+2012,Q57,fq056,Managers review and evaluate the organization's progress toward meeting its goals and objectives.,first,inherited
+2012,Q58,fq057,"Managers promote communication among different work units (for example, about projects, goals, needed resources).",first,inherited
+2012,Q59,fq058,Managers support collaboration across work units to accomplish work objectives.,first,inherited
+2012,Q60,fq059,"Overall, how good a job do you feel is being done by the manager directly above your immediate supervisor/team leader?",first,none
+2012,Q61,fq060,I have a high level of respect for my organization's senior leaders.,first,inherited
+2012,Q62,fq061,Senior leaders demonstrate support for Work/Life programs.,first,inherited
+2012,Q63,fq062,How satisfied are you with your involvement in decisions that affect your work?,first,inherited
+2012,Q64,fq063,How satisfied are you with the information you receive from management on what's going on in your organization?,first,inherited
+2012,Q65,fq064,How satisfied are you with the recognition you receive for doing a good job?,first,inherited
+2012,Q66,fq065,How satisfied are you with the policies and practices of your senior leaders?,first,inherited
+2012,Q67,fq066,How satisfied are you with your opportunity to get a better job in your organization?,first,inherited
+2012,Q68,fq067,How satisfied are you with the training you receive for your present job?,first,inherited
+2012,Q69,fq068,"Considering everything, how satisfied are you with your job?",first,inherited
+2012,Q70,fq069,"Considering everything, how satisfied are you with your pay?",first,inherited
+2012,Q71,fq070,"Considering everything, how satisfied are you with your organization?",first,inherited
+2012,Q72,fq071,Have you been notified that you are eligible to telework? Telework means working at a location other than your normal work site during your regular work hours (excludes travel).,first,none
+2012,Q73,fq072,Please select the response below that BEST describes your current teleworking situation:,first,inherited
+2012,Q74,fq073,Do you participate in the following Work/Life programs? Alternative Work Schedules (AWS),first,inherited
+2012,Q75,fq074,"Do you participate in the following Work/Life programs? Health and Wellness Programs (for example, exercise, medical screening, quit smoking programs)",first,inherited
+2012,Q76,fq075,Do you participate in the following Work/Life programs? Employee Assistance Program (EAP),first,inherited
+2012,Q77,fq076,"Do you participate in the following Work/Life programs? Child Care Programs (for example, daycare, parenting classes, parenting support groups)",first,inherited
+2012,Q78,fq077,"Do you participate in the following Work/Life programs? Elder Care Programs (for example, support groups, speakers)",first,inherited
+2012,Q79,fq078,How satisfied are you with the following Work/Life programs in your agency? Telework,first,inherited
+2012,Q80,fq079,How satisfied are you with the following Work/Life programs in your agency? Alternative Work Schedules (AWS),first,inherited
+2012,Q81,fq080,"How satisfied are you with the following Work/Life programs in your agency? Health and Wellness Programs (for example, exercise, medical screening, quit smoking programs)",first,inherited
+2012,Q82,fq081,How satisfied are you with the following Work/Life programs in your agency? Employee Assistance Program (EAP),first,inherited
+2012,Q83,fq082,"How satisfied are you with the following Work/Life programs in your agency? Child Care Programs (for example, daycare, parenting classes, parenting support groups)",first,inherited
+2012,Q84,fq083,"How satisfied are you with the following Work/Life programs in your agency? Elder Care Programs (for example, support groups, speakers)'",first,inherited
+2013,Q1,fq001,I am given a real opportunity to improve my skills in my organization.,unchanged,inherited
+2013,Q2,fq002,I have enough information to do my job well.,unchanged,inherited
+2013,Q3,fq003,I feel encouraged to come up with new and better ways of doing things.,unchanged,inherited
+2013,Q4,fq004,My work gives me a feeling of personal accomplishment.,unchanged,inherited
+2013,Q5,fq005,I like the kind of work I do.,unchanged,inherited
+2013,Q6,fq006,I know what is expected of me on the job.,unchanged,inherited
+2013,Q7,fq007,When needed I am willing to put in the extra effort to get a job done.,unchanged,inherited
+2013,Q8,fq008,I am constantly looking for ways to do my job better.,unchanged,inherited
+2013,Q9,fq009,"I have sufficient resources (for example, people, materials, budget) to get my job done.",unchanged,inherited
+2013,Q10,fq010,My workload is reasonable.,unchanged,inherited
+2013,Q11,fq011,My talents are used well in the workplace.,unchanged,inherited
+2013,Q12,fq012,I know how my work relates to the agency's goals and priorities.,unchanged,inherited
+2013,Q13,fq013,The work I do is important.,unchanged,inherited
+2013,Q14,fq014,"Physical conditions (for example, noise level, temperature, lighting, cleanliness in the workplace) allow employees to perform their jobs well.",unchanged,inherited
+2013,Q15,fq015,My performance appraisal is a fair reflection of my performance.,unchanged,inherited
+2013,Q16,fq016,I am held accountable for achieving results.,unchanged,inherited
+2013,Q17,fq017,"I can disclose a suspected violation of any law, rule or regulation without fear of reprisal.",unchanged,inherited
+2013,Q18,fq018,My training needs are assessed.,unchanged,inherited
+2013,Q19,fq019,"In my most recent performance appraisal, I understood what I had to do to be rated at different performance levels (for example, Fully Successful, Outstanding).",unchanged,inherited
+2013,Q20,fq020,The people I work with cooperate to get the job done.,unchanged,inherited
+2013,Q21,fq021,My work unit is able to recruit people with the right skills.,unchanged,inherited
+2013,Q22,fq022,Promotions in my work unit are based on merit.,unchanged,inherited
+2013,Q23,fq023,"In my work unit, steps are taken to deal with a poor performer who cannot or will not improve.",unchanged,inherited
+2013,Q24,fq024,"In my work unit, differences in performance are recognized in a meaningful way.",unchanged,inherited
+2013,Q25,fq025,Awards in my work unit depend on how well employees perform their jobs.,unchanged,inherited
+2013,Q26,fq026,Employees in my work unit share job knowledge with each other.,unchanged,inherited
+2013,Q27,fq027,The skill level in my work unit has improved in the past year.,unchanged,inherited
+2013,Q28,fq028,How would you rate the overall quality of work done by your work unit?,unchanged,inherited
+2013,Q29,fq029,The workforce has the job-relevant knowledge and skills necessary to accomplish organizational goals.,unchanged,inherited
+2013,Q30,fq030,Employees have a feeling of personal empowerment with respect to work processes.,unchanged,inherited
+2013,Q31,fq031,Employees are recognized for providing high quality products and services.,unchanged,inherited
+2013,Q32,fq032,Creativity and innovation are rewarded.,unchanged,inherited
+2013,Q33,fq033,Pay raises depend on how well employees perform their jobs.,unchanged,inherited
+2013,Q35,fq034,Employees are protected from health and safety hazards on the job.,unchanged,inherited
+2013,Q36,fq035,My organization has prepared employees for potential security threats.,unchanged,inherited
+2013,Q37,fq036,"Arbitrary action, personal favoritism and coercion for partisan political purposes are not tolerated.",unchanged,inherited
+2013,Q38,fq037,"Prohibited Personnel Practices (for example, illegally discriminating for or against any employee/applicant, obstructing a person's right to compete for employment, knowingly violating veterans' preference requirements) are not tolerated.",unchanged,inherited
+2013,Q39,fq038,My agency is successful at accomplishing its mission.,unchanged,inherited
+2013,Q40,fq039,I recommend my organization as a good place to work.,unchanged,inherited
+2013,Q41,fq040,I believe the results of this survey will be used to make my agency a better place to work.,unchanged,inherited
+2013,Q42,fq041,My supervisor supports my need to balance work and other life issues.,unchanged,inherited
+2013,Q43,fq042,My supervisor/team leader provides me with opportunities to demonstrate my leadership skills.,unchanged,none
+2013,Q44,fq043,Discussions with my supervisor/team leader about my performance are worthwhile.,unchanged,none
+2013,Q45,fq044,My supervisor/team leader is committed to a workforce representative of all segments of society.,unchanged,none
+2013,Q46,fq045,My supervisor/team leader provides me with constructive suggestions to improve my job performance.,unchanged,none
+2013,Q47,fq046,Supervisors/team leaders in my work unit support employee development.,unchanged,none
+2013,Q48,fq047,My supervisor/team leader listens to what I have to say.,unchanged,none
+2013,Q49,fq048,My supervisor/team leader treats me with respect.,unchanged,none
+2013,Q50,fq049,"In the last six months, my supervisor/team leader has talked with me about my performance.",unchanged,none
+2013,Q51,fq050,I have trust and confidence in my supervisor.,unchanged,inherited
+2013,Q52,fq051,"Overall, how good a job do you feel is being done by your immediate supervisor/team leader?",unchanged,none
+2013,Q53,fq052,"In my organization, leaders generate high levels of motivation and commitment in the workforce.",unchanged,none
+2013,Q54,fq053,My organization's leaders maintain high standards of honesty and integrity.,unchanged,none
+2013,Q55,fq054,Managers/supervisors/team leaders work well with employees of different backgrounds.,unchanged,none
+2013,Q56,fq055,Managers communicate the goals and priorities of the organization.,unchanged,inherited
+2013,Q57,fq056,Managers review and evaluate the organization's progress toward meeting its goals and objectives.,unchanged,inherited
+2013,Q58,fq057,"Managers promote communication among different work units (for example, about projects, goals, needed resources).",unchanged,inherited
+2013,Q59,fq058,Managers support collaboration across work units to accomplish work objectives.,unchanged,inherited
+2013,Q60,fq059,"Overall, how good a job do you feel is being done by the manager directly above your immediate supervisor/team leader?",unchanged,none
+2013,Q61,fq060,I have a high level of respect for my organization's senior leaders.,unchanged,inherited
+2013,Q62,fq061,Senior leaders demonstrate support for Work/Life programs.,unchanged,inherited
+2013,Q63,fq062,How satisfied are you with your involvement in decisions that affect your work?,unchanged,inherited
+2013,Q64,fq063,How satisfied are you with the information you receive from management on what's going on in your organization?,unchanged,inherited
+2013,Q65,fq064,How satisfied are you with the recognition you receive for doing a good job?,unchanged,inherited
+2013,Q66,fq065,How satisfied are you with the policies and practices of your senior leaders?,unchanged,inherited
+2013,Q67,fq066,How satisfied are you with your opportunity to get a better job in your organization?,unchanged,inherited
+2013,Q68,fq067,How satisfied are you with the training you receive for your present job?,unchanged,inherited
+2013,Q69,fq068,"Considering everything, how satisfied are you with your job?",unchanged,inherited
+2013,Q70,fq069,"Considering everything, how satisfied are you with your pay?",unchanged,inherited
+2013,Q71,fq070,"Considering everything, how satisfied are you with your organization?",unchanged,inherited
+2013,Q72,fq071,Have you been notified that you are eligible to telework? Telework means working at a location other than your normal work site during your regular work hours (excludes travel).,unchanged,none
+2013,Q73,fq072,Please select the response below that BEST describes your current teleworking situation:,unchanged,inherited
+2013,Q74,fq073,Do you participate in the following Work/Life programs? Alternative Work Schedules (AWS),unchanged,inherited
+2013,Q75,fq074,"Do you participate in the following Work/Life programs? Health and Wellness Programs (for example, exercise, medical screening, quit smoking programs)",unchanged,inherited
+2013,Q76,fq075,Do you participate in the following Work/Life programs? Employee Assistance Program (EAP),unchanged,inherited
+2013,Q77,fq076,"Do you participate in the following Work/Life programs? Child Care Programs (for example, daycare, parenting classes, parenting support groups)",unchanged,inherited
+2013,Q78,fq077,"Do you participate in the following Work/Life programs? Elder Care Programs (for example, support groups, speakers)",unchanged,inherited
+2013,Q79,fq078,How satisfied are you with the following Work/Life programs in your agency? Telework,unchanged,inherited
+2013,Q80,fq079,How satisfied are you with the following Work/Life programs in your agency? Alternative Work Schedules (AWS),unchanged,inherited
+2013,Q81,fq080,"How satisfied are you with the following Work/Life programs in your agency? Health and Wellness Programs (for example, exercise, medical screening, quit smoking programs)",unchanged,inherited
+2013,Q82,fq081,How satisfied are you with the following Work/Life programs in your agency? Employee Assistance Program (EAP),unchanged,inherited
+2013,Q83,fq082,"How satisfied are you with the following Work/Life programs in your agency? Child Care Programs (for example, daycare, parenting classes, parenting support groups)",unchanged,inherited
+2013,Q84,fq083,"How satisfied are you with the following Work/Life programs in your agency? Elder Care Programs (for example, support groups, speakers)",unchanged,inherited
+2014,Q1,fq001,I am given a real opportunity to improve my skills in my organization.,unchanged,codebook
+2014,Q2,fq002,I have enough information to do my job well.,unchanged,codebook
+2014,Q3,fq003,I feel encouraged to come up with new and better ways of doing things.,unchanged,codebook
+2014,Q4,fq004,My work gives me a feeling of personal accomplishment.,unchanged,codebook
+2014,Q5,fq005,I like the kind of work I do.,unchanged,codebook
+2014,Q6,fq006,I know what is expected of me on the job.,unchanged,codebook
+2014,Q7,fq007,When needed I am willing to put in the extra effort to get a job done.,unchanged,codebook
+2014,Q8,fq008,I am constantly looking for ways to do my job better.,unchanged,codebook
+2014,Q9,fq009,"I have sufficient resources (for example, people, materials, budget) to get my job done.",unchanged,codebook
+2014,Q10,fq010,My workload is reasonable.,unchanged,codebook
+2014,Q11,fq011,My talents are used well in the workplace.,unchanged,codebook
+2014,Q12,fq012,I know how my work relates to the agency's goals and priorities.,unchanged,codebook
+2014,Q13,fq013,The work I do is important.,unchanged,codebook
+2014,Q14,fq014,"Physical conditions (for example, noise level, temperature, lighting, cleanliness in the workplace) allow employees to perform their jobs well.",unchanged,codebook
+2014,Q15,fq015,My performance appraisal is a fair reflection of my performance.,unchanged,codebook
+2014,Q16,fq016,I am held accountable for achieving results.,unchanged,codebook
+2014,Q17,fq017,"I can disclose a suspected violation of any law, rule or regulation without fear of reprisal.",unchanged,codebook
+2014,Q18,fq018,My training needs are assessed.,unchanged,codebook
+2014,Q19,fq019,"In my most recent performance appraisal, I understood what I had to do to be rated at different performance levels (for example, Fully Successful, Outstanding).",unchanged,codebook
+2014,Q20,fq020,The people I work with cooperate to get the job done.,unchanged,codebook
+2014,Q21,fq021,My work unit is able to recruit people with the right skills.,unchanged,codebook
+2014,Q22,fq022,Promotions in my work unit are based on merit.,unchanged,codebook
+2014,Q23,fq023,"In my work unit, steps are taken to deal with a poor performer who cannot or will not improve.",unchanged,codebook
+2014,Q24,fq024,"In my work unit, differences in performance are recognized in a meaningful way.",unchanged,codebook
+2014,Q25,fq025,Awards in my work unit depend on how well employees perform their jobs.,unchanged,codebook
+2014,Q26,fq026,Employees in my work unit share job knowledge with each other.,unchanged,codebook
+2014,Q27,fq027,The skill level in my work unit has improved in the past year.,unchanged,codebook
+2014,Q28,fq028,How would you rate the overall quality of work done by your work unit?,unchanged,codebook
+2014,Q29,fq029,The workforce has the job-relevant knowledge and skills necessary to accomplish organizational goals.,unchanged,codebook
+2014,Q30,fq030,Employees have a feeling of personal empowerment with respect to work processes.,unchanged,codebook
+2014,Q31,fq031,Employees are recognized for providing high quality products and services.,unchanged,codebook
+2014,Q32,fq032,Creativity and innovation are rewarded.,unchanged,codebook
+2014,Q33,fq033,Pay raises depend on how well employees perform their jobs.,unchanged,codebook
+2014,Q34,,[Item has been redacted in response to Executive Order (EO) 14151 Ending Radical and Wasteful Government DEI Programs and Preferencing.],redacted,none
+2014,Q35,fq034,Employees are protected from health and safety hazards on the job.,unchanged,codebook
+2014,Q36,fq035,My organization has prepared employees for potential security threats.,unchanged,codebook
+2014,Q37,fq036,"Arbitrary action, personal favoritism and coercion for partisan political purposes are not tolerated.",unchanged,codebook
+2014,Q38,fq037,"Prohibited Personnel Practices (for example, illegally discriminating for or against any employee/applicant, obstructing a person's right to compete for employment, knowingly violating veterans' preference requirements) are not tolerated.",unchanged,codebook
+2014,Q39,fq038,My agency is successful at accomplishing its mission.,unchanged,codebook
+2014,Q40,fq039,I recommend my organization as a good place to work.,unchanged,codebook
+2014,Q41,fq040,I believe the results of this survey will be used to make my agency a better place to work.,unchanged,codebook
+2014,Q42,fq041,My supervisor supports my need to balance work and other life issues.,unchanged,codebook
+2014,Q43,fq042,My supervisor provides me with opportunities to demonstrate my leadership skills.,reworded,codebook
+2014,Q44,fq043,Discussions with my supervisor about my performance are worthwhile.,reworded,codebook
+2014,Q45,fq044,My supervisor is committed to a workforce representative of all segments of society.,reworded,codebook
+2014,Q46,fq045,My supervisor provides me with constructive suggestions to improve my job performance.,reworded,codebook
+2014,Q47,fq046,Supervisors in my work unit support employee development.,reworded,codebook
+2014,Q48,fq047,My supervisor listens to what I have to say.,reworded,codebook
+2014,Q49,fq048,My supervisor treats me with respect.,reworded,codebook
+2014,Q50,fq049,"In the last six months, my supervisor has talked with me about my performance.",reworded,codebook
+2014,Q51,fq050,I have trust and confidence in my supervisor.,unchanged,codebook
+2014,Q52,fq051,"Overall, how good a job do you feel is being done by your immediate supervisor?",reworded,codebook
+2014,Q53,fq052,"In my organization, senior leaders generate high levels of motivation and commitment in the workforce.",reworded,codebook
+2014,Q54,fq053,My organization's senior leaders maintain high standards of honesty and integrity.,reworded,codebook
+2014,Q55,fq084,Supervisors work well with employees of different backgrounds.,first,codebook
+2014,Q56,fq055,Managers communicate the goals and priorities of the organization.,unchanged,codebook
+2014,Q57,fq056,Managers review and evaluate the organization's progress toward meeting its goals and objectives.,unchanged,codebook
+2014,Q58,fq057,"Managers promote communication among different work units (for example, about projects, goals, needed resources).",unchanged,codebook
+2014,Q59,fq058,Managers support collaboration across work units to accomplish work objectives.,unchanged,codebook
+2014,Q60,fq059,"Overall, how good a job do you feel is being done by the manager directly above your immediate supervisor?",reworded,codebook
+2014,Q61,fq060,I have a high level of respect for my organization's senior leaders.,unchanged,codebook
+2014,Q62,fq061,Senior leaders demonstrate support for Work/Life programs.,unchanged,codebook
+2014,Q63,fq062,How satisfied are you with your involvement in decisions that affect your work?,unchanged,codebook
+2014,Q64,fq063,How satisfied are you with the information you receive from management on what's going on in your organization?,unchanged,codebook
+2014,Q65,fq064,How satisfied are you with the recognition you receive for doing a good job?,unchanged,codebook
+2014,Q66,fq065,How satisfied are you with the policies and practices of your senior leaders?,unchanged,codebook
+2014,Q67,fq066,How satisfied are you with your opportunity to get a better job in your organization?,unchanged,codebook
+2014,Q68,fq067,How satisfied are you with the training you receive for your present job?,unchanged,codebook
+2014,Q69,fq068,"Considering everything, how satisfied are you with your job?",unchanged,codebook
+2014,Q70,fq069,"Considering everything, how satisfied are you with your pay?",unchanged,codebook
+2014,Q71,fq070,"Considering everything, how satisfied are you with your organization?",unchanged,codebook
+2014,Q72,fq085,Have you been notified whether or not you are eligible to telework?,first,codebook
+2014,Q73,fq072,Please select the response below that BEST describes your current teleworking situation.,unchanged,codebook
+2014,Q74,fq073,Do you participate in the following Work/Life programs? Alternative Work Schedules (AWS),unchanged,codebook
+2014,Q75,fq074,"Do you participate in the following Work/Life programs? Health and Wellness Programs (for example, exercise, medical screening, quit smoking programs)",unchanged,codebook
+2014,Q76,fq075,Do you participate in the following Work/Life programs? Employee Assistance Program (EAP),unchanged,codebook
+2014,Q77,fq076,"Do you participate in the following Work/Life programs? Child Care Programs (for example, daycare, parenting classes, parenting support groups)",unchanged,codebook
+2014,Q78,fq077,"Do you participate in the following Work/Life programs? Elder Care Programs (for example, support groups, speakers)",unchanged,codebook
+2014,Q79,fq078,How satisfied are you with the following Work/Life programs in your agency? Telework,unchanged,codebook
+2014,Q80,fq079,How satisfied are you with the following Work/Life programs in your agency? Alternative Work Schedules (AWS),unchanged,codebook
+2014,Q81,fq080,"How satisfied are you with the following Work/Life programs in your agency? Health and Wellness Programs (for example, exercise, medical screening, quit smoking programs)",unchanged,codebook
+2014,Q82,fq081,How satisfied are you with the following Work/Life programs in your agency? Employee Assistance Program (EAP),unchanged,codebook
+2014,Q83,fq082,"How satisfied are you with the following Work/Life programs in your agency? Child Care Programs (for example, daycare, parenting classes, parenting support groups)",unchanged,codebook
+2014,Q84,fq083,"How satisfied are you with the following Work/Life programs in your agency? Elder Care Programs (for example, support groups, speakers)",unchanged,codebook
+2015,Q1,fq001,I am given a real opportunity to improve my skills in my organization.,unchanged,codebook
+2015,Q2,fq002,I have enough information to do my job well.,unchanged,codebook
+2015,Q3,fq003,I feel encouraged to come up with new and better ways of doing things.,unchanged,codebook
+2015,Q4,fq004,My work gives me a feeling of personal accomplishment.,unchanged,codebook
+2015,Q5,fq005,I like the kind of work I do.,unchanged,codebook
+2015,Q6,fq006,I know what is expected of me on the job.,unchanged,codebook
+2015,Q7,fq007,When needed I am willing to put in the extra effort to get a job done.,unchanged,codebook
+2015,Q8,fq008,I am constantly looking for ways to do my job better.,unchanged,codebook
+2015,Q9,fq009,"I have sufficient resources (for example, people, materials, budget) to get my job done.",unchanged,codebook
+2015,Q10,fq010,My workload is reasonable.,unchanged,codebook
+2015,Q11,fq011,My talents are used well in the workplace.,unchanged,codebook
+2015,Q12,fq012,I know how my work relates to the agency's goals and priorities.,unchanged,codebook
+2015,Q13,fq013,The work I do is important.,unchanged,codebook
+2015,Q14,fq014,"Physical conditions (for example, noise level, temperature, lighting, cleanliness in the workplace) allow employees to perform their jobs well.",unchanged,codebook
+2015,Q15,fq015,My performance appraisal is a fair reflection of my performance.,unchanged,codebook
+2015,Q16,fq016,I am held accountable for achieving results.,unchanged,codebook
+2015,Q17,fq017,"I can disclose a suspected violation of any law, rule or regulation without fear of reprisal.",unchanged,codebook
+2015,Q18,fq018,My training needs are assessed.,unchanged,codebook
+2015,Q19,fq019,"In my most recent performance appraisal, I understood what I had to do to be rated at different performance levels (for example, Fully Successful, Outstanding).",unchanged,codebook
+2015,Q20,fq020,The people I work with cooperate to get the job done.,unchanged,codebook
+2015,Q21,fq021,My work unit is able to recruit people with the right skills.,unchanged,codebook
+2015,Q22,fq022,Promotions in my work unit are based on merit.,unchanged,codebook
+2015,Q23,fq023,"In my work unit, steps are taken to deal with a poor performer who cannot or will not improve.",unchanged,codebook
+2015,Q24,fq024,"In my work unit, differences in performance are recognized in a meaningful way.",unchanged,codebook
+2015,Q25,fq025,Awards in my work unit depend on how well employees perform their jobs.,unchanged,codebook
+2015,Q26,fq026,Employees in my work unit share job knowledge with each other.,unchanged,codebook
+2015,Q27,fq027,The skill level in my work unit has improved in the past year.,unchanged,codebook
+2015,Q28,fq028,How would you rate the overall quality of work done by your work unit?,unchanged,codebook
+2015,Q29,fq029,The workforce has the job-relevant knowledge and skills necessary to accomplish organizational goals.,unchanged,codebook
+2015,Q30,fq030,Employees have a feeling of personal empowerment with respect to work processes.,unchanged,codebook
+2015,Q31,fq031,Employees are recognized for providing high quality products and services.,unchanged,codebook
+2015,Q32,fq032,Creativity and innovation are rewarded.,unchanged,codebook
+2015,Q33,fq033,Pay raises depend on how well employees perform their jobs.,unchanged,codebook
+2015,Q35,fq034,Employees are protected from health and safety hazards on the job.,unchanged,codebook
+2015,Q36,fq035,My organization has prepared employees for potential security threats.,unchanged,codebook
+2015,Q37,fq036,"Arbitrary action, personal favoritism and coercion for partisan political purposes are not tolerated.",unchanged,codebook
+2015,Q38,fq037,"Prohibited Personnel Practices (for example, illegally discriminating for or against any employee/applicant, obstructing a person's right to compete for employment, knowingly violating veterans' preference requirements) are not tolerated.",unchanged,codebook
+2015,Q39,fq038,My agency is successful at accomplishing its mission.,unchanged,codebook
+2015,Q40,fq039,I recommend my organization as a good place to work.,unchanged,codebook
+2015,Q41,fq040,I believe the results of this survey will be used to make my agency a better place to work.,unchanged,codebook
+2015,Q42,fq041,My supervisor supports my need to balance work and other life issues.,unchanged,codebook
+2015,Q43,fq042,My supervisor provides me with opportunities to demonstrate my leadership skills.,unchanged,codebook
+2015,Q44,fq043,Discussions with my supervisor about my performance are worthwhile.,unchanged,codebook
+2015,Q45,fq044,My supervisor is committed to a workforce representative of all segments of society.,unchanged,codebook
+2015,Q46,fq045,My supervisor provides me with constructive suggestions to improve my job performance.,unchanged,codebook
+2015,Q47,fq046,Supervisors in my work unit support employee development.,unchanged,codebook
+2015,Q48,fq047,My supervisor listens to what I have to say.,unchanged,codebook
+2015,Q49,fq048,My supervisor treats me with respect.,unchanged,codebook
+2015,Q50,fq049,"In the last six months, my supervisor has talked with me about my performance.",unchanged,codebook
+2015,Q51,fq050,I have trust and confidence in my supervisor.,unchanged,codebook
+2015,Q52,fq051,"Overall, how good a job do you feel is being done by your immediate supervisor?",unchanged,codebook
+2015,Q53,fq052,"In my organization, senior leaders generate high levels of motivation and commitment in the workforce.",unchanged,codebook
+2015,Q54,fq053,My organization's senior leaders maintain high standards of honesty and integrity.,unchanged,codebook
+2015,Q55,fq084,Supervisors work well with employees of different backgrounds.,unchanged,codebook
+2015,Q56,fq055,Managers communicate the goals and priorities of the organization.,unchanged,codebook
+2015,Q57,fq056,Managers review and evaluate the organization's progress toward meeting its goals and objectives.,unchanged,codebook
+2015,Q58,fq057,"Managers promote communication among different work units (for example, about projects, goals, needed resources).",unchanged,codebook
+2015,Q59,fq058,Managers support collaboration across work units to accomplish work objectives.,unchanged,codebook
+2015,Q60,fq059,"Overall, how good a job do you feel is being done by the manager directly above your immediate supervisor?",unchanged,codebook
+2015,Q61,fq060,I have a high level of respect for my organization's senior leaders.,unchanged,codebook
+2015,Q62,fq061,Senior leaders demonstrate support for Work/Life programs.,unchanged,codebook
+2015,Q63,fq062,How satisfied are you with your involvement in decisions that affect your work?,unchanged,codebook
+2015,Q64,fq063,How satisfied are you with the information you receive from management on what's going on in your organization?,unchanged,codebook
+2015,Q65,fq064,How satisfied are you with the recognition you receive for doing a good job?,unchanged,codebook
+2015,Q66,fq065,How satisfied are you with the policies and practices of your senior leaders?,unchanged,codebook
+2015,Q67,fq066,How satisfied are you with your opportunity to get a better job in your organization?,unchanged,codebook
+2015,Q68,fq067,How satisfied are you with the training you receive for your present job?,unchanged,codebook
+2015,Q69,fq068,"Considering everything, how satisfied are you with your job?",unchanged,codebook
+2015,Q70,fq069,"Considering everything, how satisfied are you with your pay?",unchanged,codebook
+2015,Q71,fq070,"Considering everything, how satisfied are you with your organization?",unchanged,codebook
+2015,Q72,fq085,Have you been notified whether or not you are eligible to telework?,unchanged,codebook
+2015,Q73,fq072,Please select the response below that BEST describes your current teleworking situation.,unchanged,codebook
+2015,Q74,fq073,Do you participate in the following Work/Life programs? Alternative Work Schedules (AWS),unchanged,codebook
+2015,Q75,fq074,"Do you participate in the following Work/Life programs? Health and Wellness Programs (for example, exercise, medical screening, quit smoking programs)",unchanged,codebook
+2015,Q76,fq075,Do you participate in the following Work/Life programs? Employee Assistance Program (EAP),unchanged,codebook
+2015,Q77,fq076,"Do you participate in the following Work/Life programs? Child Care Programs (for example, daycare, parenting classes, parenting support groups)",unchanged,codebook
+2015,Q78,fq077,"Do you participate in the following Work/Life programs? Elder Care Programs (for example, support groups, speakers)",unchanged,codebook
+2015,Q79,fq078,How satisfied are you with the following Work/Life programs in your agency? Telework,unchanged,codebook
+2015,Q80,fq079,How satisfied are you with the following Work/Life programs in your agency? Alternative Work Schedules (AWS),unchanged,codebook
+2015,Q81,fq080,"How satisfied are you with the following Work/Life programs in your agency? Health and Wellness Programs (for example, exercise, medical screening, quit smoking programs)",unchanged,codebook
+2015,Q82,fq081,How satisfied are you with the following Work/Life programs in your agency? Employee Assistance Program (EAP),unchanged,codebook
+2015,Q83,fq082,"How satisfied are you with the following Work/Life programs in your agency? Child Care Programs (for example, daycare, parenting classes, parenting support groups)",unchanged,codebook
+2015,Q84,fq083,"How satisfied are you with the following Work/Life programs in your agency? Elder Care Programs (for example, support groups, speakers)",unchanged,codebook
+2016,Q1,fq001,I am given a real opportunity to improve my skills in my organization.,unchanged,codebook
+2016,Q2,fq002,I have enough information to do my job well.,unchanged,codebook
+2016,Q3,fq003,I feel encouraged to come up with new and better ways of doing things.,unchanged,codebook
+2016,Q4,fq004,My work gives me a feeling of personal accomplishment.,unchanged,codebook
+2016,Q5,fq005,I like the kind of work I do.,unchanged,codebook
+2016,Q6,fq006,I know what is expected of me on the job.,unchanged,codebook
+2016,Q7,fq007,When needed I am willing to put in the extra effort to get a job done.,unchanged,codebook
+2016,Q8,fq008,I am constantly looking for ways to do my job better.,unchanged,codebook
+2016,Q9,fq009,"I have sufficient resources (for example, people, materials, budget) to get my job done.",unchanged,codebook
+2016,Q10,fq010,My workload is reasonable.,unchanged,codebook
+2016,Q11,fq011,My talents are used well in the workplace.,unchanged,codebook
+2016,Q12,fq012,I know how my work relates to the agency's goals and priorities.,unchanged,codebook
+2016,Q13,fq013,The work I do is important.,unchanged,codebook
+2016,Q14,fq014,"Physical conditions (for example, noise level, temperature, lighting, cleanliness in the workplace) allow employees to perform their jobs well.",unchanged,codebook
+2016,Q15,fq015,My performance appraisal is a fair reflection of my performance.,unchanged,codebook
+2016,Q16,fq016,I am held accountable for achieving results.,unchanged,codebook
+2016,Q17,fq017,"I can disclose a suspected violation of any law, rule or regulation without fear of reprisal.",unchanged,codebook
+2016,Q18,fq018,My training needs are assessed.,unchanged,codebook
+2016,Q19,fq019,"In my most recent performance appraisal, I understood what I had to do to be rated at different performance levels (for example, Fully Successful, Outstanding).",unchanged,codebook
+2016,Q20,fq020,The people I work with cooperate to get the job done.,unchanged,codebook
+2016,Q21,fq021,My work unit is able to recruit people with the right skills.,unchanged,codebook
+2016,Q22,fq022,Promotions in my work unit are based on merit.,unchanged,codebook
+2016,Q23,fq023,"In my work unit, steps are taken to deal with a poor performer who cannot or will not improve.",unchanged,codebook
+2016,Q24,fq024,"In my work unit, differences in performance are recognized in a meaningful way.",unchanged,codebook
+2016,Q25,fq025,Awards in my work unit depend on how well employees perform their jobs.,unchanged,codebook
+2016,Q26,fq026,Employees in my work unit share job knowledge with each other.,unchanged,codebook
+2016,Q27,fq027,The skill level in my work unit has improved in the past year.,unchanged,codebook
+2016,Q28,fq028,How would you rate the overall quality of work done by your work unit?,unchanged,codebook
+2016,Q29,fq029,The workforce has the job-relevant knowledge and skills necessary to accomplish organizational goals.,unchanged,codebook
+2016,Q30,fq030,Employees have a feeling of personal empowerment with respect to work processes.,unchanged,codebook
+2016,Q31,fq031,Employees are recognized for providing high quality products and services.,unchanged,codebook
+2016,Q32,fq032,Creativity and innovation are rewarded.,unchanged,codebook
+2016,Q33,fq033,Pay raises depend on how well employees perform their jobs.,unchanged,codebook
+2016,Q35,fq034,Employees are protected from health and safety hazards on the job.,unchanged,codebook
+2016,Q36,fq035,My organization has prepared employees for potential security threats.,unchanged,codebook
+2016,Q37,fq036,"Arbitrary action, personal favoritism and coercion for partisan political purposes are not tolerated.",unchanged,codebook
+2016,Q38,fq037,"Prohibited Personnel Practices (for example, illegally discriminating for or against any employee/applicant, obstructing a person's right to compete for employment, knowingly violating veterans' preference requirements) are not tolerated.",unchanged,codebook
+2016,Q39,fq038,My agency is successful at accomplishing its mission.,unchanged,codebook
+2016,Q40,fq039,I recommend my organization as a good place to work.,unchanged,codebook
+2016,Q41,fq040,I believe the results of this survey will be used to make my agency a better place to work.,unchanged,codebook
+2016,Q42,fq041,My supervisor supports my need to balance work and other life issues.,unchanged,codebook
+2016,Q43,fq042,My supervisor provides me with opportunities to demonstrate my leadership skills.,unchanged,codebook
+2016,Q44,fq043,Discussions with my supervisor about my performance are worthwhile.,unchanged,codebook
+2016,Q45,fq044,My supervisor is committed to a workforce representative of all segments of society.,unchanged,codebook
+2016,Q46,fq045,My supervisor provides me with constructive suggestions to improve my job performance.,unchanged,codebook
+2016,Q47,fq046,Supervisors in my work unit support employee development.,unchanged,codebook
+2016,Q48,fq047,My supervisor listens to what I have to say.,unchanged,codebook
+2016,Q49,fq048,My supervisor treats me with respect.,unchanged,codebook
+2016,Q50,fq049,"In the last six months, my supervisor has talked with me about my performance.",unchanged,codebook
+2016,Q51,fq050,I have trust and confidence in my supervisor.,unchanged,codebook
+2016,Q52,fq051,"Overall, how good a job do you feel is being done by your immediate supervisor?",unchanged,codebook
+2016,Q53,fq052,"In my organization, senior leaders generate high levels of motivation and commitment in the workforce.",unchanged,codebook
+2016,Q54,fq053,My organization's senior leaders maintain high standards of honesty and integrity.,unchanged,codebook
+2016,Q55,fq084,Supervisors work well with employees of different backgrounds.,unchanged,codebook
+2016,Q56,fq055,Managers communicate the goals and priorities of the organization.,unchanged,codebook
+2016,Q57,fq056,Managers review and evaluate the organization's progress toward meeting its goals and objectives.,unchanged,codebook
+2016,Q58,fq057,"Managers promote communication among different work units (for example, about projects, goals, needed resources).",unchanged,codebook
+2016,Q59,fq058,Managers support collaboration across work units to accomplish work objectives.,unchanged,codebook
+2016,Q60,fq059,"Overall, how good a job do you feel is being done by the manager directly above your immediate supervisor?",unchanged,codebook
+2016,Q61,fq060,I have a high level of respect for my organization's senior leaders.,unchanged,codebook
+2016,Q62,fq061,Senior leaders demonstrate support for Work/Life programs.,unchanged,codebook
+2016,Q63,fq062,How satisfied are you with your involvement in decisions that affect your work?,unchanged,codebook
+2016,Q64,fq063,How satisfied are you with the information you receive from management on what's going on in your organization?,unchanged,codebook
+2016,Q65,fq064,How satisfied are you with the recognition you receive for doing a good job?,unchanged,codebook
+2016,Q66,fq065,How satisfied are you with the policies and practices of your senior leaders?,unchanged,codebook
+2016,Q67,fq066,How satisfied are you with your opportunity to get a better job in your organization?,unchanged,codebook
+2016,Q68,fq067,How satisfied are you with the training you receive for your present job?,unchanged,codebook
+2016,Q69,fq068,"Considering everything, how satisfied are you with your job?",unchanged,codebook
+2016,Q70,fq069,"Considering everything, how satisfied are you with your pay?",unchanged,codebook
+2016,Q71,fq070,"Considering everything, how satisfied are you with your organization?",unchanged,codebook
+2017,Q1,fq001,I am given a real opportunity to improve my skills in my organization.,unchanged,codebook
+2017,Q2,fq002,I have enough information to do my job well.,unchanged,codebook
+2017,Q3,fq003,I feel encouraged to come up with new and better ways of doing things.,unchanged,codebook
+2017,Q4,fq004,My work gives me a feeling of personal accomplishment.,unchanged,codebook
+2017,Q5,fq005,I like the kind of work I do.,unchanged,codebook
+2017,Q6,fq006,I know what is expected of me on the job.,unchanged,codebook
+2017,Q7,fq007,When needed I am willing to put in the extra effort to get a job done.,unchanged,codebook
+2017,Q8,fq008,I am constantly looking for ways to do my job better.,unchanged,codebook
+2017,Q9,fq009,"I have sufficient resources (for example, people, materials, budget) to get my job done.",unchanged,codebook
+2017,Q10,fq010,My workload is reasonable.,unchanged,codebook
+2017,Q11,fq011,My talents are used well in the workplace.,unchanged,codebook
+2017,Q12,fq012,I know how my work relates to the agency's goals and priorities.,unchanged,codebook
+2017,Q13,fq013,The work I do is important.,unchanged,codebook
+2017,Q14,fq014,"Physical conditions (for example, noise level, temperature, lighting, cleanliness in the workplace) allow employees to perform their jobs well.",unchanged,codebook
+2017,Q15,fq015,My performance appraisal is a fair reflection of my performance.,unchanged,codebook
+2017,Q16,fq016,I am held accountable for achieving results.,unchanged,codebook
+2017,Q17,fq017,"I can disclose a suspected violation of any law, rule or regulation without fear of reprisal.",unchanged,codebook
+2017,Q18,fq018,My training needs are assessed.,unchanged,codebook
+2017,Q19,fq019,"In my most recent performance appraisal, I understood what I had to do to be rated at different performance levels (for example, Fully Successful, Outstanding).",unchanged,codebook
+2017,Q20,fq020,The people I work with cooperate to get the job done.,unchanged,codebook
+2017,Q21,fq021,My work unit is able to recruit people with the right skills.,unchanged,codebook
+2017,Q22,fq022,Promotions in my work unit are based on merit.,unchanged,codebook
+2017,Q23,fq023,"In my work unit, steps are taken to deal with a poor performer who cannot or will not improve.",unchanged,codebook
+2017,Q24,fq024,"In my work unit, differences in performance are recognized in a meaningful way.",unchanged,codebook
+2017,Q25,fq025,Awards in my work unit depend on how well employees perform their jobs.,unchanged,codebook
+2017,Q26,fq026,Employees in my work unit share job knowledge with each other.,unchanged,codebook
+2017,Q27,fq027,The skill level in my work unit has improved in the past year.,unchanged,codebook
+2017,Q28,fq028,How would you rate the overall quality of work done by your work unit?,unchanged,codebook
+2017,Q29,fq029,The workforce has the job-relevant knowledge and skills necessary to accomplish organizational goals.,unchanged,codebook
+2017,Q30,fq030,Employees have a feeling of personal empowerment with respect to work processes.,unchanged,codebook
+2017,Q31,fq031,Employees are recognized for providing high quality products and services.,unchanged,codebook
+2017,Q32,fq032,Creativity and innovation are rewarded.,unchanged,codebook
+2017,Q33,fq033,Pay raises depend on how well employees perform their jobs.,unchanged,codebook
+2017,Q35,fq034,Employees are protected from health and safety hazards on the job.,unchanged,codebook
+2017,Q36,fq035,My organization has prepared employees for potential security threats.,unchanged,codebook
+2017,Q37,fq036,"Arbitrary action, personal favoritism and coercion for partisan political purposes are not tolerated.",unchanged,codebook
+2017,Q38,fq037,"Prohibited Personnel Practices (for example, illegally discriminating for or against any employee/applicant, obstructing a person's right to compete for employment, knowingly violating veterans' preference requirements) are not tolerated.",unchanged,codebook
+2017,Q39,fq038,My agency is successful at accomplishing its mission.,unchanged,codebook
+2017,Q40,fq039,I recommend my organization as a good place to work.,unchanged,codebook
+2017,Q41,fq040,I believe the results of this survey will be used to make my agency a better place to work.,unchanged,codebook
+2017,Q42,fq041,My supervisor supports my need to balance work and other life issues.,unchanged,codebook
+2017,Q43,fq042,My supervisor provides me with opportunities to demonstrate my leadership skills.,unchanged,codebook
+2017,Q44,fq043,Discussions with my supervisor about my performance are worthwhile.,unchanged,codebook
+2017,Q45,fq044,My supervisor is committed to a workforce representative of all segments of society.,unchanged,codebook
+2017,Q46,fq045,My supervisor provides me with constructive suggestions to improve my job performance.,unchanged,codebook
+2017,Q47,fq046,Supervisors in my work unit support employee development.,unchanged,codebook
+2017,Q48,fq047,My supervisor listens to what I have to say.,unchanged,codebook
+2017,Q49,fq048,My supervisor treats me with respect.,unchanged,codebook
+2017,Q50,fq049,"In the last six months, my supervisor has talked with me about my performance.",unchanged,codebook
+2017,Q51,fq050,I have trust and confidence in my supervisor.,unchanged,codebook
+2017,Q52,fq051,"Overall, how good a job do you feel is being done by your immediate supervisor?",unchanged,codebook
+2017,Q53,fq052,"In my organization, senior leaders generate high levels of motivation and commitment in the workforce.",unchanged,codebook
+2017,Q54,fq053,My organization's senior leaders maintain high standards of honesty and integrity.,unchanged,codebook
+2017,Q55,fq084,Supervisors work well with employees of different backgrounds.,unchanged,codebook
+2017,Q56,fq055,Managers communicate the goals and priorities of the organization.,unchanged,codebook
+2017,Q57,fq056,Managers review and evaluate the organization's progress toward meeting its goals and objectives.,unchanged,codebook
+2017,Q58,fq057,"Managers promote communication among different work units (for example, about projects, goals, needed resources).",unchanged,codebook
+2017,Q59,fq058,Managers support collaboration across work units to accomplish work objectives.,unchanged,codebook
+2017,Q60,fq059,"Overall, how good a job do you feel is being done by the manager directly above your immediate supervisor?",unchanged,codebook
+2017,Q61,fq060,I have a high level of respect for my organization's senior leaders.,unchanged,codebook
+2017,Q62,fq061,Senior leaders demonstrate support for Work/Life programs.,unchanged,codebook
+2017,Q63,fq062,How satisfied are you with your involvement in decisions that affect your work?,unchanged,codebook
+2017,Q64,fq063,How satisfied are you with the information you receive from management on what's going on in your organization?,unchanged,codebook
+2017,Q65,fq064,How satisfied are you with the recognition you receive for doing a good job?,unchanged,codebook
+2017,Q66,fq065,How satisfied are you with the policies and practices of your senior leaders?,unchanged,codebook
+2017,Q67,fq066,How satisfied are you with your opportunity to get a better job in your organization?,unchanged,codebook
+2017,Q68,fq067,How satisfied are you with the training you receive for your present job?,unchanged,codebook
+2017,Q69,fq068,"Considering everything, how satisfied are you with your job?",unchanged,codebook
+2017,Q70,fq069,"Considering everything, how satisfied are you with your pay?",unchanged,codebook
+2017,Q71,fq070,"Considering everything, how satisfied are you with your organization?",unchanged,codebook
+2018,Q1,fq001,I am given a real opportunity to improve my skills in my organization.,unchanged,codebook
+2018,Q2,fq002,I have enough information to do my job well.,unchanged,codebook
+2018,Q3,fq003,I feel encouraged to come up with new and better ways of doing things.,unchanged,codebook
+2018,Q4,fq004,My work gives me a feeling of personal accomplishment.,unchanged,codebook
+2018,Q5,fq005,I like the kind of work I do.,unchanged,codebook
+2018,Q6,fq006,I know what is expected of me on the job.,unchanged,codebook
+2018,Q7,fq007,When needed I am willing to put in the extra effort to get a job done.,unchanged,codebook
+2018,Q8,fq008,I am constantly looking for ways to do my job better.,unchanged,codebook
+2018,Q9,fq009,"I have sufficient resources (for example, people, materials, budget) to get my job done.",unchanged,codebook
+2018,Q10,fq010,My workload is reasonable.,unchanged,codebook
+2018,Q11,fq011,My talents are used well in the workplace.,unchanged,codebook
+2018,Q12,fq012,I know how my work relates to the agency's goals.,reworded,codebook
+2018,Q13,fq013,The work I do is important.,unchanged,codebook
+2018,Q14,fq014,"Physical conditions (for example, noise level, temperature, lighting, cleanliness in the workplace) allow employees to perform their jobs well.",unchanged,codebook
+2018,Q15,fq015,My performance appraisal is a fair reflection of my performance.,unchanged,codebook
+2018,Q16,fq016,I am held accountable for achieving results.,unchanged,codebook
+2018,Q17,fq017,"I can disclose a suspected violation of any law, rule or regulation without fear of reprisal.",unchanged,codebook
+2018,Q18,fq018,My training needs are assessed.,unchanged,codebook
+2018,Q19,fq019,"In my most recent performance appraisal, I understood what I had to do to be rated at different performance levels (for example, Fully Successful, Outstanding).",unchanged,codebook
+2018,Q20,fq020,The people I work with cooperate to get the job done.,unchanged,codebook
+2018,Q21,fq021,My work unit is able to recruit people with the right skills.,unchanged,codebook
+2018,Q22,fq022,Promotions in my work unit are based on merit.,unchanged,codebook
+2018,Q23,fq023,"In my work unit, steps are taken to deal with a poor performer who cannot or will not improve.",unchanged,codebook
+2018,Q24,fq024,"In my work unit, differences in performance are recognized in a meaningful way.",unchanged,codebook
+2018,Q25,fq025,Awards in my work unit depend on how well employees perform their jobs.,unchanged,codebook
+2018,Q26,fq026,Employees in my work unit share job knowledge with each other.,unchanged,codebook
+2018,Q27,fq027,The skill level in my work unit has improved in the past year.,unchanged,codebook
+2018,Q28,fq028,How would you rate the overall quality of work done by your work unit?,unchanged,codebook
+2018,Q29,fq086,My work unit has the job-relevant knowledge and skills necessary to accomplish organizational goals.,first,codebook
+2018,Q30,fq030,Employees have a feeling of personal empowerment with respect to work processes.,unchanged,codebook
+2018,Q31,fq031,Employees are recognized for providing high quality products and services.,unchanged,codebook
+2018,Q32,fq032,Creativity and innovation are rewarded.,unchanged,codebook
+2018,Q33,fq033,Pay raises depend on how well employees perform their jobs.,unchanged,codebook
+2018,Q35,fq034,Employees are protected from health and safety hazards on the job.,unchanged,codebook
+2018,Q36,fq035,My organization has prepared employees for potential security threats.,unchanged,codebook
+2018,Q37,fq036,"Arbitrary action, personal favoritism and coercion for partisan political purposes are not tolerated.",unchanged,codebook
+2018,Q38,fq037,"Prohibited Personnel Practices (for example, illegally discriminating for or against any employee/applicant, obstructing a person's right to compete for employment, knowingly violating veterans' preference requirements) are not tolerated.",unchanged,codebook
+2018,Q39,fq038,My agency is successful at accomplishing its mission.,unchanged,codebook
+2018,Q40,fq039,I recommend my organization as a good place to work.,unchanged,codebook
+2018,Q41,fq040,I believe the results of this survey will be used to make my agency a better place to work.,unchanged,codebook
+2018,Q42,fq041,My supervisor supports my need to balance work and other life issues.,unchanged,codebook
+2018,Q43,fq042,My supervisor provides me with opportunities to demonstrate my leadership skills.,unchanged,codebook
+2018,Q44,fq043,Discussions with my supervisor about my performance are worthwhile.,unchanged,codebook
+2018,Q45,fq044,My supervisor is committed to a workforce representative of all segments of society.,unchanged,codebook
+2018,Q46,fq045,My supervisor provides me with constructive suggestions to improve my job performance.,unchanged,codebook
+2018,Q47,fq046,Supervisors in my work unit support employee development.,unchanged,codebook
+2018,Q48,fq047,My supervisor listens to what I have to say.,unchanged,codebook
+2018,Q49,fq048,My supervisor treats me with respect.,unchanged,codebook
+2018,Q50,fq049,"In the last six months, my supervisor has talked with me about my performance.",unchanged,codebook
+2018,Q51,fq050,I have trust and confidence in my supervisor.,unchanged,codebook
+2018,Q52,fq051,"Overall, how good a job do you feel is being done by your immediate supervisor?",unchanged,codebook
+2018,Q53,fq052,"In my organization, senior leaders generate high levels of motivation and commitment in the workforce.",unchanged,codebook
+2018,Q54,fq053,My organization's senior leaders maintain high standards of honesty and integrity.,unchanged,codebook
+2018,Q55,fq084,Supervisors work well with employees of different backgrounds.,unchanged,codebook
+2018,Q56,fq055,Managers communicate the goals of the organization.,reworded,codebook
+2018,Q57,fq056,Managers review and evaluate the organization's progress toward meeting its goals and objectives.,unchanged,codebook
+2018,Q58,fq057,"Managers promote communication among different work units (for example, about projects, goals, needed resources).",unchanged,codebook
+2018,Q59,fq058,Managers support collaboration across work units to accomplish work objectives.,unchanged,codebook
+2018,Q60,fq059,"Overall, how good a job do you feel is being done by the manager directly above your immediate supervisor?",unchanged,codebook
+2018,Q61,fq060,I have a high level of respect for my organization's senior leaders.,unchanged,codebook
+2018,Q62,fq061,Senior leaders demonstrate support for Work/Life programs.,unchanged,codebook
+2018,Q63,fq062,How satisfied are you with your involvement in decisions that affect your work?,unchanged,codebook
+2018,Q64,fq063,How satisfied are you with the information you receive from management on what’s going on in your organization?,unchanged,codebook
+2018,Q65,fq064,How satisfied are you with the recognition you receive for doing a good job?,unchanged,codebook
+2018,Q66,fq065,How satisfied are you with the policies and practices of your senior leaders?,unchanged,codebook
+2018,Q67,fq066,How satisfied are you with your opportunity to get a better job in your organization?,unchanged,codebook
+2018,Q68,fq067,How satisfied are you with the training you receive for your present job?,unchanged,codebook
+2018,Q69,fq068,"Considering everything, how satisfied are you with your job?",unchanged,codebook
+2018,Q70,fq069,"Considering everything, how satisfied are you with your pay?",unchanged,codebook
+2018,Q71,fq070,"Considering everything, how satisfied are you with your organization?",unchanged,codebook
+2019,Q1,fq001,I am given a real opportunity to improve my skills in my organization.,unchanged,codebook
+2019,Q2,fq002,I have enough information to do my job well.,unchanged,codebook
+2019,Q3,fq003,I feel encouraged to come up with new and better ways of doing things.,unchanged,codebook
+2019,Q4,fq004,My work gives me a feeling of personal accomplishment.,unchanged,codebook
+2019,Q5,fq005,I like the kind of work I do.,unchanged,codebook
+2019,Q6,fq006,I know what is expected of me on the job.,unchanged,codebook
+2019,Q7,fq007,When needed I am willing to put in the extra effort to get a job done.,unchanged,codebook
+2019,Q8,fq008,I am constantly looking for ways to do my job better.,unchanged,codebook
+2019,Q9,fq009,"I have sufficient resources (for example, people, materials, budget) to get my job done.",unchanged,codebook
+2019,Q10,fq010,My workload is reasonable.,unchanged,codebook
+2019,Q11,fq011,My talents are used well in the workplace.,unchanged,codebook
+2019,Q12,fq012,I know how my work relates to the agency's goals.,unchanged,codebook
+2019,Q13,fq013,The work I do is important.,unchanged,codebook
+2019,Q14,fq014,"Physical conditions (for example, noise level, temperature, lighting, cleanliness in the workplace) allow employees to perform their jobs well.",unchanged,codebook
+2019,Q15,fq015,My performance appraisal is a fair reflection of my performance.,unchanged,codebook
+2019,Q16,fq016,I am held accountable for achieving results.,unchanged,codebook
+2019,Q17,fq017,"I can disclose a suspected violation of any law, rule or regulation without fear of reprisal.",unchanged,codebook
+2019,Q18,fq018,My training needs are assessed.,unchanged,codebook
+2019,Q19,fq019,"In my most recent performance appraisal, I understood what I had to do to be rated at different performance levels (for example, Fully Successful, Outstanding).",unchanged,codebook
+2019,Q20,fq020,The people I work with cooperate to get the job done.,unchanged,codebook
+2019,Q21,fq021,My work unit is able to recruit people with the right skills.,unchanged,codebook
+2019,Q22,fq022,Promotions in my work unit are based on merit.,unchanged,codebook
+2019,Q23,fq023,"In my work unit, steps are taken to deal with a poor performer who cannot or will not improve.",unchanged,codebook
+2019,Q24,fq024,"In my work unit, differences in performance are recognized in a meaningful way.",unchanged,codebook
+2019,Q25,fq025,Awards in my work unit depend on how well employees perform their jobs.,unchanged,codebook
+2019,Q26,fq026,Employees in my work unit share job knowledge with each other.,unchanged,codebook
+2019,Q27,fq027,The skill level in my work unit has improved in the past year.,unchanged,codebook
+2019,Q28,fq028,How would you rate the overall quality of work done by your work unit?,unchanged,codebook
+2019,Q29,fq086,My work unit has the job-relevant knowledge and skills necessary to accomplish organizational goals.,unchanged,codebook
+2019,Q30,fq030,Employees have a feeling of personal empowerment with respect to work processes.,unchanged,codebook
+2019,Q31,fq031,Employees are recognized for providing high quality products and services.,unchanged,codebook
+2019,Q32,fq032,Creativity and innovation are rewarded.,unchanged,codebook
+2019,Q33,fq033,Pay raises depend on how well employees perform their jobs.,unchanged,codebook
+2019,Q35,fq034,Employees are protected from health and safety hazards on the job.,unchanged,codebook
+2019,Q36,fq035,My organization has prepared employees for potential security threats.,unchanged,codebook
+2019,Q37,fq036,"Arbitrary action, personal favoritism and coercion for partisan political purposes are not tolerated.",unchanged,codebook
+2019,Q38,fq037,"Prohibited Personnel Practices (for example, illegally discriminating for or against any employee/applicant, obstructing a person's right to compete for employment, knowingly violating veterans' preference requirements) are not tolerated.",unchanged,codebook
+2019,Q39,fq038,My agency is successful at accomplishing its mission.,unchanged,codebook
+2019,Q40,fq039,I recommend my organization as a good place to work.,unchanged,codebook
+2019,Q41,fq040,I believe the results of this survey will be used to make my agency a better place to work.,unchanged,codebook
+2019,Q42,fq041,My supervisor supports my need to balance work and other life issues.,unchanged,codebook
+2019,Q43,fq042,My supervisor provides me with opportunities to demonstrate my leadership skills.,unchanged,codebook
+2019,Q44,fq043,Discussions with my supervisor about my performance are worthwhile.,unchanged,codebook
+2019,Q45,fq044,My supervisor is committed to a workforce representative of all segments of society.,unchanged,codebook
+2019,Q46,fq045,My supervisor provides me with constructive suggestions to improve my job performance.,unchanged,codebook
+2019,Q47,fq046,Supervisors in my work unit support employee development.,unchanged,codebook
+2019,Q48,fq047,My supervisor listens to what I have to say.,unchanged,codebook
+2019,Q49,fq048,My supervisor treats me with respect.,unchanged,codebook
+2019,Q50,fq049,"In the last six months, my supervisor has talked with me about my performance.",unchanged,codebook
+2019,Q51,fq050,I have trust and confidence in my supervisor.,unchanged,codebook
+2019,Q52,fq051,"Overall, how good a job do you feel is being done by your immediate supervisor?",unchanged,codebook
+2019,Q53,fq052,"In my organization, senior leaders generate high levels of motivation and commitment in the workforce.",unchanged,codebook
+2019,Q54,fq053,My organization's senior leaders maintain high standards of honesty and integrity.,unchanged,codebook
+2019,Q55,fq084,Supervisors work well with employees of different backgrounds.,unchanged,codebook
+2019,Q56,fq055,Managers communicate the goals of the organization.,unchanged,codebook
+2019,Q57,fq056,Managers review and evaluate the organization's progress toward meeting its goals and objectives.,unchanged,codebook
+2019,Q58,fq057,"Managers promote communication among different work units (for example, about projects, goals, needed resources).",unchanged,codebook
+2019,Q59,fq058,Managers support collaboration across work units to accomplish work objectives.,unchanged,codebook
+2019,Q60,fq059,"Overall, how good a job do you feel is being done by the manager directly above your immediate supervisor?",unchanged,codebook
+2019,Q61,fq060,I have a high level of respect for my organization's senior leaders.,unchanged,codebook
+2019,Q62,fq061,Senior leaders demonstrate support for Work/Life programs.,unchanged,codebook
+2019,Q63,fq062,How satisfied are you with your involvement in decisions that affect your work?,unchanged,codebook
+2019,Q64,fq063,How satisfied are you with the information you receive from management on what’s going on in your organization?,unchanged,codebook
+2019,Q65,fq064,How satisfied are you with the recognition you receive for doing a good job?,unchanged,codebook
+2019,Q66,fq065,How satisfied are you with the policies and practices of your senior leaders?,unchanged,codebook
+2019,Q67,fq066,How satisfied are you with your opportunity to get a better job in your organization?,unchanged,codebook
+2019,Q68,fq067,How satisfied are you with the training you receive for your present job?,unchanged,codebook
+2019,Q69,fq068,"Considering everything, how satisfied are you with your job?",unchanged,codebook
+2019,Q70,fq069,"Considering everything, how satisfied are you with your pay?",unchanged,codebook
+2019,Q71,fq070,"Considering everything, how satisfied are you with your organization?",unchanged,codebook
+2019,Q73,fq087,"Which of the following best describes the impact of the partial government shutdown (December 22, 2018 – January 25, 2019) on your working/pay status?",first,codebook
+2019,Q74,fq088,How was your everyday work impacted during (if you worked) or after the partial government shutdown?,first,codebook
+2019,Q75_1,fq089,,first,none
+2019,Q75_2,fq090,,first,none
+2019,Q75_3,fq091,,first,none
+2019,Q75_4,fq092,,first,none
+2019,Q75_5,fq093,,first,none
+2019,Q75_6,fq094,,first,none
+2019,Q75_7,fq095,,first,none
+2019,Q75_8,fq096,,first,none
+2019,Q75_9,fq097,,first,none
+2019,Q75_10,fq098,,first,none
+2019,Q76,fq099,Are you looking for another job because of the partial government shutdown?,first,codebook
+2019,Q77,fq100,"My agency provided the support (e.g., communication, assistance, guidance) I needed during the partial government shutdown.",first,codebook
+2020,Q1,fq001,I am given a real opportunity to improve my skills in my organization.,unchanged,codebook
+2020,Q2,fq003,I feel encouraged to come up with new and better ways of doing things.,unchanged,codebook
+2020,Q3,fq004,My work gives me a feeling of personal accomplishment.,unchanged,codebook
+2020,Q4,fq006,I know what is expected of me on the job.,unchanged,codebook
+2020,Q5,fq010,My workload is reasonable.,unchanged,codebook
+2020,Q6,fq011,My talents are used well in the workplace.,unchanged,codebook
+2020,Q7,fq012,I know how my work relates to the agency's goals.,unchanged,codebook
+2020,Q8,fq017,"I can disclose a suspected violation of any law, rule or regulation without fear of reprisal.",unchanged,codebook
+2020,Q9,fq020,The people I work with cooperate to get the job done.,unchanged,codebook
+2020,Q10,fq023,"In my work unit, steps are taken to deal with a poor performer who cannot or will not improve.",unchanged,codebook
+2020,Q11,fq101,In my work unit poor performers usually:,first,codebook
+2020,Q12,fq024,"In my work unit, differences in performance are recognized in a meaningful way.",unchanged,codebook
+2020,Q13,fq086,My work unit has the job-relevant knowledge and skills necessary to accomplish organizational goals.,unchanged,codebook
+2020,Q14,fq031,Employees are recognized for providing high quality products and services.,unchanged,codebook
+2020,Q15,fq034,Employees are protected from health and safety hazards on the job.,unchanged,codebook
+2020,Q16,fq038,My agency is successful at accomplishing its mission.,unchanged,codebook
+2020,Q17,fq039,I recommend my organization as a good place to work.,unchanged,codebook
+2020,Q18,fq040,I believe the results of this survey will be used to make my agency a better place to work.,unchanged,codebook
+2020,Q19,fq041,My supervisor supports my need to balance work and other life issues.,unchanged,codebook
+2020,Q20,fq044,My supervisor is committed to a workforce representative of all segments of society.,unchanged,codebook
+2020,Q21,fq046,Supervisors in my work unit support employee development.,unchanged,codebook
+2020,Q22,fq047,My supervisor listens to what I have to say.,unchanged,codebook
+2020,Q23,fq048,My supervisor treats me with respect.,unchanged,codebook
+2020,Q24,fq050,I have trust and confidence in my supervisor.,unchanged,codebook
+2020,Q25,fq051,"Overall, how good a job do you feel is being done by you immediate supervisor?",same,codebook
+2020,Q26,fq052,"In my organization, senior leaders generate high levels of motivation and commitment in the workforce.",unchanged,codebook
+2020,Q27,fq053,My organization's senior leaders maintain high standards of honesty and integrity.,unchanged,codebook
+2020,Q28,fq055,Managers communicate the goals of the organization.,unchanged,codebook
+2020,Q29,fq057,"Mangers promote communication among different work units (for example, about projects, goals, needed resources).",same,codebook
+2020,Q30,fq059,"Overall, how good a job do you feel is being done by the manager directly above your immediate supervisor?",unchanged,codebook
+2020,Q31,fq060,I have a high level of respect for my organization's senior leaders.,unchanged,codebook
+2020,Q32,fq061,Senior leaders demonstrate support for Work/Life programs.,unchanged,codebook
+2020,Q33,fq062,How satisfied are you with your involvement in decisions that affect your work?,unchanged,codebook
+2020,Q34,fq063,How satisfied are you with the information you receive from management on what's going on in your organization?,unchanged,codebook
+2020,Q35,fq064,How satisfied are you with the recognition you receive for doing a good job?,unchanged,codebook
+2020,Q36,fq068,"Considering everything, how satisfied are you with your job?",unchanged,codebook
+2020,Q37,fq069,"Considering everything, how satisfied are you with your pay?",unchanged,codebook
+2020,Q38,fq070,"Considering everything, how satisfied are you with your organization?",unchanged,codebook
+2020,Q58,fq102,How satisfied are you with the Telework program in your agency?,first,codebook
+2020,Q59_01,fq103,"Alternative Work Schedules (for example, compressed work schedule, flexible work schedule)",first,codebook
+2020,Q59_02,fq104,"Health and Wellness Programs (for example, onsite exercise, flu vaccination, medical screening, CPR training, Health and wellness fair)",first,codebook
+2020,Q59_03,fq105,"Employee Assistance Program – EAP (for example, short-term counseling, referral services, legal services, education services)",first,codebook
+2020,Q59_04,fq106,"Child Care Programs (for example, child care center, parenting classes and support groups, back-up care, subsidy, flexible spending account)",first,codebook
+2020,Q59_05,fq107,"Elder Care Programs (for example, elder/adult care, support groups, resources)",first,codebook
+2020,Q59_06,fq108,None listed above,first,codebook
+2020,Q60,fq109,"Alternative Work Schedules (for example, compressed work schedule, flexible work schedule)",first,codebook
+2020,Q61,fq110,"Health and Wellness Programs (for example, onsite exercise, flu vaccination, medical screening, CPR training, health and wellness fair)",first,codebook
+2020,Q62,fq111,"Employee Assistance Program - EAP (for example, short-term counseling, referral services, legal services, education services)",first,codebook
+2020,Q63,fq112,"Child Care Programs (for example, child care center, parenting classes and support groups, back-up care, subsidy, flexible spending account)",first,codebook
+2020,Q64,fq113,"Elder Care Programs (for example, elder/adult care, support groups, resources)",first,codebook
+2020,V1,fq114,"During the COVID-19 pandemic, on average what percentage of your work time have you been physically present at your agency worksite (including headquarters, bureau, field offices, etc.)?",first,codebook
+2020,V2A,fq115,BEFORE the COVID-19 Pandemic,first,codebook
+2020,V2B,fq116,During the PEAK of the COVID-19 Pandemic,first,codebook
+2020,V2C,fq117,AS-OF the Date Responded (September-October 2020),first,codebook
+2020,V3_01,fq118,Leave under the Emergency Paid Sick Leave Act (part of the Families First Coronavirus Response Act),first,codebook
+2020,V3_02,fq119,"Other types of leave (sick, weather & safety, administrative, unpaid, etc.)",first,codebook
+2020,V3_03,fq120,I have not used leave because of the pandemic,first,codebook
+2020,V4,fq121,"During the COVID-19 pandemic, what percentage of your total work time have you used leave because of the pandemic?",first,codebook
+2020,V5,fq122,"How have you changed your participation in alternative work schedules (AWS) because of the COVID-19 pandemic? Examples of AWS include compressed work, flexible work schedule, and maxi-flex.",first,codebook
+2020,V6_01,fq123,Expanded telework,first,codebook
+2020,V6_02,fq124,Expanded work schedule flexibilities,first,codebook
+2020,V6_03,fq125,Expanded leave policies,first,codebook
+2020,V6_04,fq126,More information on available leave policies,first,codebook
+2020,V6_05,fq127,"Expanded mental health resources (e.g., assistance with stress of COVID-19)",first,codebook
+2020,V6_06,fq128,"Expanded physical health resources (e.g., temperature checks, COVID-19 illness testing) at my agency worksite",first,codebook
+2020,V6_07,fq129,Timely communication about possible COVID-19 illness at my agency worksite,first,codebook
+2020,V6_08,fq130,Protection of employees at higher risk for severe illness from COVID-19 exposure,first,codebook
+2020,V6_09,fq131,"Limited access to my agency worksite buildings/facilities (e.g., closures, limits on activities with external visitors/groups)",first,codebook
+2020,V6_10,fq132,"Social distancing (e.g., limits on group size, reduced access to common areas) in my agency worksite",first,codebook
+2020,V6_11,fq133,Rearranged workspaces to maximize social distancing,first,codebook
+2020,V6_12,fq134,Encouraged use of personal protective equipment (PPE) or other safety equipment in my agency worksite,first,codebook
+2020,V6_13,fq135,Cleaning and sanitizing supplies available to reduce risk of illness in my agency worksite,first,codebook
+2020,V6_14,fq136,Training for all employees on health and safety protocols,first,codebook
+2020,V7,fq137,…demonstrated commitment to employee health and safety.,first,codebook
+2020,V8,fq138,…supported policies and procedures to protect employee health and safety.,first,codebook
+2020,V9,fq139,...provided effective communications about the pandemic.,first,codebook
+2020,V10,fq140,…shown concern for my health and safety.,first,codebook
+2020,V11,fq141,…supported my efforts to stay healthy and safe while working.,first,codebook
+2020,V12,fq142,…created an environment where I can voice my concerns about staying healthy and safe.,first,codebook
+2020,V13_01,fq143,"Consistent communication (e.g., organizational status, what to expect)",first,codebook
+2020,V13_02,fq144,Training for new/changed work or work processes because of the pandemic,first,codebook
+2020,V13_03,fq145,"Reallocation of resources (e.g., staffing, budget, materials) to support changes in work because of the pandemic",first,codebook
+2020,V13_04,fq146,"Help with commuting issues (e.g., alternatives to public transportation)",first,codebook
+2020,V13_05,fq147,Options for work/business travel,first,codebook
+2020,V13_06,fq148,"Information on remote work policies, procedures, and expectations",first,codebook
+2020,V13_07,fq149,Training on how to work remotely,first,codebook
+2020,V13_08,fq150,"Equipment and technology for working remotely (e.g., laptops, cell phone, Information Technology infrastructure)",first,codebook
+2020,V13_09,fq151,"Expanded collaboration tools (e.g., video conferencing, teleconferencing)",first,codebook
+2020,V13_10,fq152,Expanded training for using remote work tools and applications,first,codebook
+2020,V13_11,fq153,Expanded Information Technology (IT) support,first,codebook
+2020,V13_12,fq154,Information about data security policies and procedures,first,codebook
+2020,V14,fq155,"Does the type of work you do require you to be physically present at a worksite (e.g. border patrol, TSA agent, meat inspector)?",first,codebook
+2020,V15,fq156,How disruptive has the COVID-19 pandemic been to your ability to do your work?,first,codebook
+2020,V16,fq157,How have your work demands changed because of the COVID-19 pandemic?,first,codebook
+2020,V17_01,fq158,…met the needs of our customers.,first,codebook
+2020,V17_02,fq159,…contributed positively to my agency’s performance.,first,codebook
+2020,V17_03,fq160,…produced high-quality work.,first,codebook
+2020,V17_04,fq161,…adapted to changing priorities.,first,codebook
+2020,V17_05,fq162,…successfully collaborated.,first,codebook
+2020,V17_06,fq163,…achieved our goals.,first,codebook
+2020,V18_01,fq164,…has met the needs of our customers.,first,codebook
+2020,V18_02,fq165,…has contributed positively to my agency’s performance.,first,codebook
+2020,V18_03,fq166,…has produced high-quality work.,first,codebook
+2020,V18_04,fq167,…has adapted to changing priorities.,first,codebook
+2020,V18_05,fq168,…has successfully collaborated.,first,codebook
+2020,V18_06,fq169,…has achieved our goals.,first,codebook
+2020,V19,fq170,"In the phased return of employees to the agency worksite (i.e. opening up government), my organization has made employee safety a top priority.",first,codebook
+2020,V20,fq171,"Based on my organization’s handling of the COVID-19 pandemic, I believe my organization will respond effectively to future emergencies.",first,codebook
+2020,V21_01,fq172,I do not have any child care responsibilities,first,codebook
+2020,V21_02,fq173,"No arrangements needed to manage child care responsibilities (e.g., older children)",first,codebook
+2020,V21_03,fq174,Paid or Unpaid Leave,first,codebook
+2020,V21_04,fq175,"Alternative Work Schedules (for example, compressed work schedule, flexible work schedule)",first,codebook
+2020,V21_05,fq176,"Other (child care in someone else's home, respite care, agency emergency back-up care, resource and referral services, other)",first,codebook
+2020,V22_01,fq177,I do not have any elder/adult care responsibilities,first,codebook
+2020,V22_02,fq178,"No arrangements needed to manage elder/adult care responsibilities (e.g., elder can manage tasks of everyday living)",first,codebook
+2020,V22_03,fq179,Paid or Unpaid Leave,first,codebook
+2020,V22_04,fq180,"Alternative work arrangement (e.g., telework, flexible work schedule)",first,codebook
+2020,V22_05,fq181,"Other (elder/adult day care center, long-term care insurance, respite care, other services/arrangements)",first,codebook
+2020,V23,fq182,"During the COVID-19 pandemic, how disruptive have school closures/changes been to your ability to do your work?",first,codebook
+2020,V24,fq183,"During the COVID-19 pandemic, how disruptive have changes to your children’s day care been to your ability to do your work?",first,codebook
+2021,Q1,fq001,I am given a real opportunity to improve my skills in my organization.,unchanged,codebook
+2021,Q2,fq003,I feel encouraged to come up with new and better ways of doing things.,unchanged,codebook
+2021,Q3,fq004,My work gives me a feeling of personal accomplishment.,unchanged,codebook
+2021,Q4,fq006,I know what is expected of me on the job.,unchanged,codebook
+2021,Q5,fq010,My workload is reasonable.,unchanged,codebook
+2021,Q6,fq011,My talents are used well in the workplace.,unchanged,codebook
+2021,Q7,fq012,I know how my work relates to the agency's goals.,unchanged,codebook
+2021,Q8,fq017,"I can disclose a suspected violation of any law, rule or regulation without fear of reprisal.",unchanged,codebook
+2021,Q9,fq020,The people I work with cooperate to get the job done.,unchanged,codebook
+2021,Q10,fq023,"In my work unit, steps are taken to deal with a poor performer who cannot or will not improve.",unchanged,codebook
+2021,Q11,fq101,In my work unit poor performers usually:,unchanged,codebook
+2021,Q12,fq024,"In my work unit, differences in performance are recognized in a meaningful way.",unchanged,codebook
+2021,Q13,fq086,My work unit has the job-relevant knowledge and skills necessary to accomplish organizational goals.,unchanged,codebook
+2021,Q14,fq184,Employees in my work unit meet the needs of our customers.,first,codebook
+2021,Q15,fq185,Employees in my work unit contribute positively to my agency’s performance.,first,codebook
+2021,Q16,fq186,Employees in my work unit produce high-quality work.,first,codebook
+2021,Q17,fq187,Employees in my work unit adapt to changing priorities.,first,codebook
+2021,Q18,fq188,Employees in my work unit successfully collaborate.,first,codebook
+2021,Q19,fq189,Employees in my work unit achieve our goals.,first,codebook
+2021,Q20,fq031,Employees are recognized for providing high quality products and services.,unchanged,codebook
+2021,Q21,fq034,Employees are protected from health and safety hazards on the job.,unchanged,codebook
+2021,Q22,fq038,My agency is successful at accomplishing its mission.,unchanged,codebook
+2021,Q23,fq039,I recommend my organization as a good place to work.,unchanged,codebook
+2021,Q24,fq040,I believe the results of this survey will be used to make my agency a better place to work.,unchanged,codebook
+2021,Q25,fq041,My supervisor supports my need to balance work and other life issues.,unchanged,codebook
+2021,Q26,fq044,My supervisor is committed to a workforce representative of all segments of society.,unchanged,codebook
+2021,Q27,fq046,Supervisors in my work unit support employee development.,unchanged,codebook
+2021,Q28,fq047,My supervisor listens to what I have to say.,unchanged,codebook
+2021,Q29,fq048,My supervisor treats me with respect.,unchanged,codebook
+2021,Q30,fq050,I have trust and confidence in my supervisor.,unchanged,codebook
+2021,Q31,fq051,"Overall, how good a job do you feel is being done by your immediate supervisor?",same,codebook
+2021,Q32,fq052,"In my organization, senior leaders generate high levels of motivation and commitment in the workforce.",unchanged,codebook
+2021,Q33,fq053,My organization's senior leaders maintain high standards of honesty and integrity.,unchanged,codebook
+2021,Q34,fq055,Managers communicate the goals of the organization.,unchanged,codebook
+2021,Q35,fq057,"Managers promote communication among different work units (for example, about projects, goals, needed resources).",same,codebook
+2021,Q36,fq059,"Overall, how good a job do you feel is being done by the manager directly above your immediate supervisor?",unchanged,codebook
+2021,Q37,fq060,I have a high level of respect for my organization's senior leaders.,unchanged,codebook
+2021,Q38,fq061,Senior leaders demonstrate support for Work-Life programs.,unchanged,codebook
+2021,Q39,fq062,How satisfied are you with your involvement in decisions that affect your work?,unchanged,codebook
+2021,Q40,fq063,How satisfied are you with the information you receive from management on what's going on in your organization?,unchanged,codebook
+2021,Q41,fq064,How satisfied are you with the recognition you receive for doing a good job?,unchanged,codebook
+2021,Q42,fq068,"Considering everything, how satisfied are you with your job?",unchanged,codebook
+2021,Q43,fq069,"Considering everything, how satisfied are you with your pay?",unchanged,codebook
+2021,Q44,fq070,"Considering everything, how satisfied are you with your organization?",unchanged,codebook
+2021,Q45,fq190,"Since the last OPM FEVS (September and October 2020), on average what percentage of your work time have you been physically present at your agency worksite (including headquarters, bureau, field offices, etc.)?",first,codebook
+2021,Q46,fq191,Please select the response that BEST describes your current teleworking schedule.,first,codebook
+2021,Q47_01,fq192,How has your organization supported you during the COVID-19 pandemic? - A. Expanded telework,first,codebook
+2021,Q47_02,fq193,How has your organization supported you during the COVID-19 pandemic? - B. Expanded work schedule flexibilities,first,codebook
+2021,Q47_03,fq194,How has your organization supported you during the COVID-19 pandemic? - C. Expanded leave policies,first,codebook
+2021,Q47_04,fq195,How has your organization supported you during the COVID-19 pandemic? - D. Clear guidance on COVID-19 vaccination protocols,first,codebook
+2021,Q47_05,fq196,"How has your organization supported you during the COVID-19 pandemic? - E. Appropriate physical health resources (e.g., access to COVID-19 testing) at my agency worksite",first,codebook
+2021,Q47_06,fq197,How has your organization supported you during the COVID-19 pandemic? - F. Timely communication about possible COVID-19 exposure at my agency worksite,first,codebook
+2021,Q47_07,fq198,How has your organization supported you during the COVID-19 pandemic? - G. Social distancing in my agency worksite,first,codebook
+2021,Q47_08,fq199,How has your organization supported you during the COVID-19 pandemic? - H. Encouraged use of personal protective equipment (PPE) or other safety equipment in my agency worksite,first,codebook
+2021,Q47_09,fq200,How has your organization supported you during the COVID-19 pandemic? - I. Cleaning and sanitizing performed regularly in my agency worksite to reduce risk of COVID-19 illness,first,codebook
+2021,Q47_10,fq201,How has your organization supported you during the COVID-19 pandemic? - J. A well-ventilated worksite,first,codebook
+2021,Q47_11,fq202,How has your organization supported you during the COVID-19 pandemic? - K. Clear guidance on quarantine requirements after any COVID-19 exposure,first,codebook
+2021,Q48,fq203,My organization’s senior leaders demonstrate commitment to employee health and safety.,first,codebook
+2021,Q49,fq204,My organization’s senior leaders support policies and procedures to protect employee health and safety.,first,codebook
+2021,Q50,fq205,My organization’s senior leaders provide effective communications about what to expect with the return to the physical worksite.,first,codebook
+2021,Q51,fq206,My supervisor shows concern for my health and safety.,first,codebook
+2021,Q52,fq207,My supervisor supports my efforts to stay healthy and safe while working.,first,codebook
+2021,Q53,fq208,My supervisor creates an environment where I can voice my concerns about staying healthy and safe.,first,codebook
+2021,Q54,fq155,"Does the type of work you do require you to be physically present at a worksite (e.g., border patrol agent, TSA agent, meat inspector)?",same,codebook
+2021,Q55,fq209,My agency's leadership updates employees about return to the worksite planning.,first,codebook
+2021,Q56,fq210,"In plans to return more employees to the worksite, my organization has made employee safety a top priority.",first,codebook
+2021,Q57,fq171,"Based on my organization's handling of the COVID-19 pandemic, I believe my organization will respond effectively to future emergencies.",unchanged,codebook
+2022,Q1,fq001,I am given a real opportunity to improve my skills in my organization.,unchanged,codebook
+2022,Q2,fq003,I feel encouraged to come up with new and better ways of doing things.,unchanged,codebook
+2022,Q3,fq004,My work gives me a feeling of personal accomplishment.,unchanged,codebook
+2022,Q4,fq006,I know what is expected of me on the job.,unchanged,codebook
+2022,Q5,fq010,My workload is reasonable.,unchanged,codebook
+2022,Q6,fq011,My talents are used well in the workplace.,unchanged,codebook
+2022,Q7,fq012,I know how my work relates to the agency's goals.,unchanged,codebook
+2022,Q8,fq017,"I can disclose a suspected violation of any law, rule or regulation without fear of reprisal.",unchanged,codebook
+2022,Q9,fq002,I have enough information to do my job well.,unchanged,codebook
+2022,Q10,fq211,I receive the training I need to do my job well.,first,codebook
+2022,Q11,fq212,I am held accountable for the quality of work I produce.,first,codebook
+2022,Q12,fq213,Continually changing work priorities make it hard for me to produce high quality work.,first,codebook
+2022,Q13,fq214,I have a clear idea of how well I am doing my job.,first,codebook
+2022,Q14,fq020,The people I work with cooperate to get the job done.,unchanged,codebook
+2022,Q15_1,fq215,In my work unit poor performers usually:,first,codebook
+2022,Q15_2,fq216,In my work unit poor performers usually:,first,codebook
+2022,Q15_3,fq217,In my work unit poor performers usually:,first,codebook
+2022,Q15_4,fq218,In my work unit poor performers usually:,first,codebook
+2022,Q15_5,fq219,In my work unit poor performers usually:,first,codebook
+2022,Q15_6,fq220,In my work unit poor performers usually:,first,codebook
+2022,Q16,fq024,"In my work unit, differences in performance are recognized in a meaningful way.",unchanged,codebook
+2022,Q17,fq221,Employees in my work unit share job knowledge.,first,codebook
+2022,Q18,fq086,My work unit has the job-relevant knowledge and skills necessary to accomplish organizational goals.,unchanged,codebook
+2022,Q19,fq184,Employees in my work unit meet the needs of our customers.,unchanged,codebook
+2022,Q20,fq185,Employees in my work unit contribute positively to my agency's performance.,unchanged,codebook
+2022,Q21,fq186,Employees in my work unit produce high-quality work.,unchanged,codebook
+2022,Q22,fq187,Employees in my work unit adapt to changing priorities.,unchanged,codebook
+2022,Q23,fq222,New hires in my work unit (i.e. hired in the past year) have the right skills to do their jobs.,first,codebook
+2022,Q24,fq223,I can influence decisions in my work unit.,first,codebook
+2022,Q25,fq224,I know what my work unit’s goals are.,first,codebook
+2022,Q26,fq225,"My work unit commits resources to develop new ideas (e.g., budget, staff, time, expert support).",first,codebook
+2022,Q27,fq226,My work unit successfully manages disruptions to our work.,first,codebook
+2022,Q28,fq227,Employees in my work unit consistently look for new ways to improve how they do their work.,first,codebook
+2022,Q29,fq228,Employees in my work unit incorporate new ideas into their work.,first,codebook
+2022,Q30,fq229,Employees in my work unit approach change as an opportunity.,first,codebook
+2022,Q31,fq230,Employees in my work unit consider customer needs a top priority.,first,codebook
+2022,Q32,fq231,Employees in my work unit consistently look for ways to improve customer service.,first,codebook
+2022,Q33,fq232,Employees in my work unit support my need to balance my work and personal responsibilities.,first,codebook
+2022,Q34,fq233,Employees in my work unit are typically under too much pressure to meet work goals.,first,codebook
+2022,Q35,fq031,Employees are recognized for providing high quality products and services.,unchanged,codebook
+2022,Q36,fq034,Employees are protected from health and safety hazards on the job.,unchanged,codebook
+2022,Q37,fq038,My organization is successful at accomplishing its mission.,reworded,codebook
+2022,Q38,fq234,I have a good understanding of my organization’s priorities.,first,codebook
+2022,Q39,fq235,My organization effectively adapts to changing government priorities.,first,codebook
+2022,Q40,fq236,My organization has prepared me for potential physical security threats.,first,codebook
+2022,Q41,fq237,My organization has prepared me for potential cybersecurity threats.,first,codebook
+2022,Q42,fq238,"In my organization, arbitrary action, personal favoritism and/or political coercion are not tolerated.",first,codebook
+2022,Q43,fq039,I recommend my organization as a good place to work.,unchanged,codebook
+2022,Q44,fq040,I believe the results of this survey will be used to make my agency a better place to work.,unchanged,codebook
+2022,Q45,fq044,My supervisor is committed to a workforce representative of all segments of society.,unchanged,codebook
+2022,Q46,fq046,Supervisors in my work unit support employee development.,unchanged,codebook
+2022,Q47,fq041,My supervisor supports my need to balance work and other life issues.,unchanged,codebook
+2022,Q48,fq047,My supervisor listens to what I have to say.,unchanged,codebook
+2022,Q49,fq048,My supervisor treats me with respect.,unchanged,codebook
+2022,Q50,fq050,I have trust and confidence in my supervisor.,unchanged,codebook
+2022,Q51,fq239,My supervisor holds me accountable for achieving results.,first,codebook
+2022,Q52,fq051,"Overall, how good a job do you feel is being done by your immediate supervisor?",unchanged,codebook
+2022,Q53,fq045,My supervisor provides me with constructive suggestions to improve my job performance.,unchanged,codebook
+2022,Q54,fq240,My supervisor provides me with performance feedback throughout the year.,first,codebook
+2022,Q55,fq052,"In my organization, senior leaders generate high levels of motivation and commitment in the workforce.",unchanged,codebook
+2022,Q56,fq053,My organization's senior leaders maintain high standards of honesty and integrity.,unchanged,codebook
+2022,Q57,fq055,Managers communicate the goals of the organization.,unchanged,codebook
+2022,Q58,fq057,"Managers promote communication among different work units (for example, about projects, goals, needed resources).",unchanged,codebook
+2022,Q59,fq059,"Overall, how good a job do you feel is being done by the manager directly above your immediate supervisor?",unchanged,codebook
+2022,Q60,fq060,I have a high level of respect for my organization's senior leaders.,unchanged,codebook
+2022,Q61,fq061,Senior leaders demonstrate support for Work-Life programs.,unchanged,codebook
+2022,Q62,fq241,Management encourages innovation.,first,codebook
+2022,Q63,fq242,Management makes effective changes to address challenges facing our organization.,first,codebook
+2022,Q64,fq243,Management involves employees in decisions that affect their work.,first,codebook
+2022,Q65,fq062,How satisfied are you with your involvement in decisions that affect your work?,unchanged,codebook
+2022,Q66,fq063,How satisfied are you with the information you receive from management on what's going on in your organization?,unchanged,codebook
+2022,Q67,fq064,How satisfied are you with the recognition you receive for doing a good job?,unchanged,codebook
+2022,Q68,fq068,"Considering everything, how satisfied are you with your job?",unchanged,codebook
+2022,Q69,fq069,"Considering everything, how satisfied are you with your pay?",unchanged,codebook
+2022,Q70,fq070,"Considering everything, how satisfied are you with your organization?",unchanged,codebook
+2022,Q85,fq244,My job inspires me.,first,codebook
+2022,Q86,fq245,The work I do gives me a sense of accomplishment.,first,codebook
+2022,Q87,fq246,I feel a strong personal attachment to my organization.,first,codebook
+2022,Q88,fq247,I identify with the mission of my organization.,first,codebook
+2022,Q89,fq248,It is important to me that my work contribute to the common good.,first,codebook
+2022,Q90,fq249,"What percentage of your work time are you currently required to be physically present at your agency worksite (including headquarters, bureau, field offices, etc.)?",first,codebook
+2022,Q91,fq250,Please select the response that BEST describes your current remote work or teleworking schedule.,first,codebook
+2022,Q92,fq251,Did you have an approved remote work agreement before the 2020 COVID-19 pandemic?,first,codebook
+2022,Q93,fq252,"Based on your work unit’s current telework or remote work options, are you considering leaving your organization, and if so, why?",first,codebook
+2022,Q94,fq253,My agency’s re-entry arrangements are fair in accounting for employees’ diverse needs and situations.,first,codebook
+2022,Q95,fq254,Please select the response that BEST describes how employees in your work unit currently report to work:,first,codebook
+2022,Q96,fq204,My organization’s senior leaders support policies and procedures to protect employee health and safety.,unchanged,codebook
+2022,Q97,fq205,My organization’s senior leaders provide effective communications about what to expect with the return to the physical worksite.,unchanged,codebook
+2022,Q98,fq207,My supervisor supports my efforts to stay healthy and safe while working.,unchanged,codebook
+2022,Q99,fq208,My supervisor creates an environment where I can voice my concerns about staying healthy and safe.,unchanged,codebook
+2023,Q1,fq001,I am given a real opportunity to improve my skills in my organization.,unchanged,codebook
+2023,Q2,fq003,I feel encouraged to come up with new and better ways of doing things.,unchanged,codebook
+2023,Q3,fq004,My work gives me a feeling of personal accomplishment.,unchanged,codebook
+2023,Q4,fq006,I know what is expected of me on the job.,unchanged,codebook
+2023,Q5,fq010,My workload is reasonable.,unchanged,codebook
+2023,Q6,fq011,My talents are used well in the workplace.,unchanged,codebook
+2023,Q7,fq012,I know how my work relates to the agency's goals.,unchanged,codebook
+2023,Q8,fq017,"I can disclose a suspected violation of any law, rule, or regulation without fear of reprisal.",unchanged,codebook
+2023,Q9,fq002,I have enough information to do my job well.,unchanged,codebook
+2023,Q10,fq211,I receive the training I need to do my job well.,unchanged,codebook
+2023,Q11,fq212,I am held accountable for the quality of work I produce.,unchanged,codebook
+2023,Q12,fq214,I have a clear idea of how well I am doing my job.,unchanged,codebook
+2023,Q13,fq255,I have the autonomy to decide how I do my job.,first,codebook
+2023,Q14,fq256,I can make decisions about my work without getting permission first.,first,codebook
+2023,Q15,fq020,The people I work with cooperate to get the job done.,unchanged,codebook
+2023,Q16_1,fq257,In my work unit poor performers usually (select all that apply):,first,codebook
+2023,Q16_2,fq258,In my work unit poor performers usually (select all that apply):,first,codebook
+2023,Q16_3,fq259,In my work unit poor performers usually (select all that apply):,first,codebook
+2023,Q16_4,fq260,In my work unit poor performers usually (select all that apply):,first,codebook
+2023,Q16_5,fq261,In my work unit poor performers usually (select all that apply):,first,codebook
+2023,Q16_6,fq262,In my work unit poor performers usually (select all that apply):,first,codebook
+2023,Q17,fq024,"In my work unit, differences in performance are recognized in a meaningful way.",unchanged,codebook
+2023,Q18,fq221,Employees in my work unit share job knowledge.,unchanged,codebook
+2023,Q19,fq086,My work unit has the job-relevant knowledge and skills necessary to accomplish organizational goals.,unchanged,codebook
+2023,Q20,fq184,Employees in my work unit meet the needs of our customers.,unchanged,codebook
+2023,Q21,fq185,Employees in my work unit contribute positively to my agency's performance.,unchanged,codebook
+2023,Q22,fq186,Employees in my work unit produce high-quality work.,unchanged,codebook
+2023,Q23,fq187,Employees in my work unit adapt to changing priorities.,unchanged,codebook
+2023,Q24,fq222,New hires in my work unit (i.e. hired in the past year) have the right skills to do their jobs.,unchanged,codebook
+2023,Q25,fq223,I can influence decisions in my work unit.,unchanged,codebook
+2023,Q26,fq224,I know what my work unit’s goals are.,unchanged,codebook
+2023,Q27,fq225,"My work unit commits resources to develop new ideas (e.g., budget, staff, time, expert support).",unchanged,codebook
+2023,Q28,fq226,My work unit successfully manages disruptions to our work.,unchanged,codebook
+2023,Q29,fq227,Employees in my work unit consistently look for new ways to improve how they do their work.,unchanged,codebook
+2023,Q30,fq228,Employees in my work unit incorporate new ideas into their work.,unchanged,codebook
+2023,Q31,fq229,Employees in my work unit approach change as an opportunity.,unchanged,codebook
+2023,Q32,fq230,Employees in my work unit consider customer needs a top priority.,unchanged,codebook
+2023,Q33,fq231,Employees in my work unit consistently look for ways to improve customer service.,unchanged,codebook
+2023,Q34,fq232,Employees in my work unit support my need to balance my work and personal responsibilities.,unchanged,codebook
+2023,Q35,fq031,Employees are recognized for providing high quality products and services.,unchanged,codebook
+2023,Q36,fq034,Employees are protected from health and safety hazards on the job.,unchanged,codebook
+2023,Q37,fq038,My organization is successful at accomplishing its mission.,unchanged,codebook
+2023,Q38,fq234,I have a good understanding of my organization’s priorities.,unchanged,codebook
+2023,Q39,fq263,"My organization shares results (for example, town halls, email, distribution of reports) from the Federal Employee Viewpoint Survey (FEVS).",first,codebook
+2023,Q40,fq264,Information is openly shared in my organization.,first,codebook
+2023,Q41,fq265,The approval process in my organization allows timely delivery of my work.,first,codebook
+2023,Q42,fq235,My organization effectively adapts to changing government priorities.,unchanged,codebook
+2023,Q43,fq236,My organization has prepared me for potential physical security threats.,unchanged,codebook
+2023,Q44,fq237,My organization has prepared me for potential cybersecurity threats.,unchanged,codebook
+2023,Q45,fq238,"In my organization, arbitrary action, personal favoritism and/or political coercion are not tolerated.",unchanged,codebook
+2023,Q46,fq039,I recommend my organization as a good place to work.,unchanged,codebook
+2023,Q47,fq040,I believe the results of this survey will be used to make my agency a better place to work.,unchanged,codebook
+2023,Q48,fq046,Supervisors in my work unit support employee development.,unchanged,codebook
+2023,Q49,fq041,My supervisor supports my need to balance work and other life issues.,unchanged,codebook
+2023,Q50,fq047,My supervisor listens to what I have to say.,unchanged,codebook
+2023,Q51,fq048,My supervisor treats me with respect.,unchanged,codebook
+2023,Q52,fq050,I have trust and confidence in my supervisor.,unchanged,codebook
+2023,Q53,fq239,My supervisor holds me accountable for achieving results.,unchanged,codebook
+2023,Q54,fq051,"Overall, how good a job do you feel is being done by your immediate supervisor?",unchanged,codebook
+2023,Q55,fq045,My supervisor provides me with constructive suggestions to improve my job performance.,unchanged,codebook
+2023,Q56,fq240,My supervisor provides me with performance feedback throughout the year.,unchanged,codebook
+2023,Q57,fq052,"In my organization, senior leaders generate high levels of motivation and commitment in the workforce.",unchanged,codebook
+2023,Q58,fq053,My organization's senior leaders maintain high standards of honesty and integrity.,unchanged,codebook
+2023,Q59,fq055,Managers communicate the goals of the organization.,unchanged,codebook
+2023,Q60,fq057,"Managers promote communication among different work units (for example, about projects, goals, needed resources).",unchanged,codebook
+2023,Q61,fq059,"Overall, how good a job do you feel is being done by the manager directly above your immediate supervisor?",unchanged,codebook
+2023,Q62,fq060,I have a high level of respect for my organization's senior leaders.,unchanged,codebook
+2023,Q63,fq061,Senior leaders demonstrate support for Work-Life programs.,unchanged,codebook
+2023,Q64,fq241,Management encourages innovation.,unchanged,codebook
+2023,Q65,fq242,Management makes effective changes to address challenges facing our organization.,unchanged,codebook
+2023,Q66,fq243,Management involves employees in decisions that affect their work.,unchanged,codebook
+2023,Q67,fq062,How satisfied are you with your involvement in decisions that affect your work?,unchanged,codebook
+2023,Q68,fq063,How satisfied are you with the information you receive from management on what's going on in your organization?,unchanged,codebook
+2023,Q69,fq064,How satisfied are you with the recognition you receive for doing a good job?,unchanged,codebook
+2023,Q70,fq068,"Considering everything, how satisfied are you with your job?",unchanged,codebook
+2023,Q71,fq069,"Considering everything, how satisfied are you with your pay?",unchanged,codebook
+2023,Q72,fq070,"Considering everything, how satisfied are you with your organization?",unchanged,codebook
+2023,Q86,fq244,My job inspires me.,unchanged,codebook
+2023,Q87,fq245,The work I do gives me a sense of accomplishment.,unchanged,codebook
+2023,Q88,fq246,I feel a strong personal attachment to my organization.,unchanged,codebook
+2023,Q89,fq247,I identify with the mission of my organization.,unchanged,codebook
+2023,Q90,fq248,It is important to me that my work contribute to the common good.,unchanged,codebook
+2023,Q91,fq250,Please select the response that BEST describes your current teleworking schedule.,reworded,codebook
+2024,Q1,fq001,I am given a real opportunity to improve my skills in my organization.,unchanged,codebook
+2024,Q2,fq003,I feel encouraged to come up with new and better ways of doing things.,unchanged,codebook
+2024,Q3,fq004,My work gives me a feeling of personal accomplishment.,unchanged,codebook
+2024,Q4,fq006,I know what is expected of me on the job.,unchanged,codebook
+2024,Q5,fq010,My workload is reasonable.,unchanged,codebook
+2024,Q6,fq011,My talents are used well in the workplace.,unchanged,codebook
+2024,Q7,fq012,I know how my work relates to the agency's goals.,unchanged,codebook
+2024,Q8,fq017,"I can disclose a suspected violation of any law, rule, or regulation without fear of reprisal.",unchanged,codebook
+2024,Q9,fq002,I have enough information to do my job well.,unchanged,codebook
+2024,Q10,fq211,I receive the training I need to do my job well.,unchanged,codebook
+2024,Q11,fq212,I am held accountable for the quality of work I produce.,unchanged,codebook
+2024,Q12,fq214,I have a clear idea of how well I am doing my job.,unchanged,codebook
+2024,Q13,fq255,I have the autonomy to decide how I do my job.,unchanged,codebook
+2024,Q14,fq256,I can make decisions about my work without getting permission first.,unchanged,codebook
+2024,Q15,fq020,The people I work with cooperate to get the job done.,unchanged,codebook
+2024,Q16_1,fq266,In my work unit poor performers usually (select all that apply):,first,codebook
+2024,Q16_2,fq267,In my work unit poor performers usually (select all that apply):,first,codebook
+2024,Q16_3,fq268,In my work unit poor performers usually (select all that apply):,first,codebook
+2024,Q16_4,fq269,In my work unit poor performers usually (select all that apply):,first,codebook
+2024,Q16_5,fq270,In my work unit poor performers usually (select all that apply):,first,codebook
+2024,Q16_6,fq271,In my work unit poor performers usually (select all that apply):,first,codebook
+2024,Q17,fq024,"In my work unit, differences in performance are recognized in a meaningful way.",unchanged,codebook
+2024,Q18,fq221,Employees in my work unit share job knowledge.,unchanged,codebook
+2024,Q19,fq086,My work unit has the job-relevant knowledge and skills necessary to accomplish organizational goals.,unchanged,codebook
+2024,Q20,fq184,Employees in my work unit meet the needs of our customers.,unchanged,codebook
+2024,Q21,fq185,Employees in my work unit contribute positively to my agency's performance.,unchanged,codebook
+2024,Q22,fq186,Employees in my work unit produce high-quality work.,unchanged,codebook
+2024,Q23,fq187,Employees in my work unit adapt to changing priorities.,unchanged,codebook
+2024,Q24,fq222,"New hires in my work unit (i.e., hired in the past year) have the right skills to do their jobs.",unchanged,codebook
+2024,Q25,fq223,I can influence decisions in my work unit.,unchanged,codebook
+2024,Q26,fq224,I know what my work unit’s goals are.,unchanged,codebook
+2024,Q27,fq225,"My work unit commits resources to develop new ideas (e.g., budget, staff, time, expert support).",unchanged,codebook
+2024,Q28,fq226,My work unit successfully manages disruptions to our work.,unchanged,codebook
+2024,Q29,fq227,Employees in my work unit consistently look for new ways to improve how they do their work.,unchanged,codebook
+2024,Q30,fq228,Employees in my work unit incorporate new ideas into their work.,unchanged,codebook
+2024,Q31,fq229,Employees in my work unit approach change as an opportunity.,unchanged,codebook
+2024,Q32,fq230,Employees in my work unit consider customer needs a top priority.,unchanged,codebook
+2024,Q33,fq231,Employees in my work unit consistently look for ways to improve customer service.,unchanged,codebook
+2024,Q34,fq232,Employees in my work unit support my need to balance my work and personal responsibilities.,unchanged,codebook
+2024,Q35,fq031,Employees are recognized for providing high quality products and services.,unchanged,codebook
+2024,Q36,fq034,Employees are protected from health and safety hazards on the job.,unchanged,codebook
+2024,Q37,fq038,My organization is successful at accomplishing its mission.,unchanged,codebook
+2024,Q38,fq234,I have a good understanding of my organization’s priorities.,unchanged,codebook
+2024,Q39,fq263,"My organization shares results (for example, town halls, email, distribution of reports) from the Federal Employee Viewpoint Survey (FEVS).",unchanged,codebook
+2024,Q40,fq264,Information is openly shared in my organization.,unchanged,codebook
+2024,Q41,fq265,The approval process in my organization allows timely delivery of my work.,unchanged,codebook
+2024,Q42,fq235,My organization effectively adapts to changing government priorities.,unchanged,codebook
+2024,Q43,fq236,My organization has prepared me for potential physical security threats.,unchanged,codebook
+2024,Q44,fq237,My organization has prepared me for potential cybersecurity threats.,unchanged,codebook
+2024,Q45,fq238,"In my organization, arbitrary action, personal favoritism, and/or political coercion are not tolerated.",unchanged,codebook
+2024,Q46,fq039,I recommend my organization as a good place to work.,unchanged,codebook
+2024,Q47,fq040,I believe the results of this survey will be used to make my agency a better place to work.,unchanged,codebook
+2024,Q48,fq046,Supervisors in my work unit support employee development.,unchanged,codebook
+2024,Q49,fq041,My supervisor supports my need to balance work and other life issues.,unchanged,codebook
+2024,Q50,fq047,My supervisor listens to what I have to say.,unchanged,codebook
+2024,Q51,fq048,My supervisor treats me with respect.,unchanged,codebook
+2024,Q52,fq050,I have trust and confidence in my supervisor.,unchanged,codebook
+2024,Q53,fq239,My supervisor holds me accountable for achieving results.,unchanged,codebook
+2024,Q54,fq051,"Overall, how good a job do you feel is being done by your immediate supervisor?",unchanged,codebook
+2024,Q55,fq045,My supervisor provides me with constructive suggestions to improve my job performance.,unchanged,codebook
+2024,Q56,fq240,My supervisor provides me with performance feedback throughout the year.,unchanged,codebook
+2024,Q57,fq052,"In my organization, senior leaders generate high levels of motivation and commitment in the workforce.",unchanged,codebook
+2024,Q58,fq053,My organization's senior leaders maintain high standards of honesty and integrity.,unchanged,codebook
+2024,Q59,fq055,Managers communicate the goals of the organization.,unchanged,codebook
+2024,Q60,fq057,"Managers promote communication among different work units (for example, about projects, goals, needed resources).",unchanged,codebook
+2024,Q61,fq059,"Overall, how good a job do you feel is being done by the manager directly above your immediate supervisor?",unchanged,codebook
+2024,Q62,fq060,I have a high level of respect for my organization's senior leaders.,unchanged,codebook
+2024,Q63,fq061,Senior leaders demonstrate support for Work-Life programs.,unchanged,codebook
+2024,Q64,fq241,Management encourages innovation.,unchanged,codebook
+2024,Q65,fq242,Management makes effective changes to address challenges facing our organization.,unchanged,codebook
+2024,Q66,fq243,Management involves employees in decisions that affect their work.,unchanged,codebook
+2024,Q67,fq062,How satisfied are you with your involvement in decisions that affect your work?,unchanged,codebook
+2024,Q68,fq063,How satisfied are you with the information you receive from management on what's going on in your organization?,unchanged,codebook
+2024,Q69,fq064,How satisfied are you with the recognition you receive for doing a good job?,unchanged,codebook
+2024,Q70,fq068,"Considering everything, how satisfied are you with your job?",unchanged,codebook
+2024,Q71,fq069,"Considering everything, how satisfied are you with your pay?",unchanged,codebook
+2024,Q72,fq070,"Considering everything, how satisfied are you with your organization?",unchanged,codebook
+2024,Q86,fq244,My job inspires me.,unchanged,codebook
+2024,Q87,fq245,The work I do gives me a sense of accomplishment.,unchanged,codebook
+2024,Q88,fq246,I feel a strong personal attachment to my organization.,unchanged,codebook
+2024,Q89,fq247,I identify with the mission of my organization.,unchanged,codebook
+2024,Q90,fq248,It is important to me that my work contribute to the common good.,unchanged,codebook
+2024,Q91,fq250,Please select the response that BEST describes your current teleworking schedule.,unchanged,codebook
