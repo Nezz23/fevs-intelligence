@@ -82,11 +82,11 @@ These traps are each handled in code and pinned by a test or a reviewed table:
 
 ## Measured
 
-Measured on an Apple-silicon MacBook, DuckDB 2.0.0, dbt-core 1.12.7:
+Measured on an Apple M4 Pro MacBook, DuckDB 2.0.0, dbt-core 1.12.7:
 
 | Step | Time |
 |---|---|
-| Land all 13 waves (6,837,200 rows) after contract checks | 53.6 s |
+| Land all 13 waves (6,760,929 rows) after contract checks | 53.6 s |
 | Re-land a wave whose file and contract are unchanged | 0.24 s |
 | Draft one wave's contract (profile every column) | 2.1 s (was 44 s with one scan per column) |
 | silver item responses, full build (539,108,211 rows) | 51-59 s |
