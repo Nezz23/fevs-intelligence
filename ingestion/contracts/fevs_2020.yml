@@ -1,0 +1,407 @@
+contract: opm_fevs_public_data_file
+wave: 2020
+version: 1
+source_file: FEVS_2020_PRDF.csv
+sha256: 8d0042bde8b3ff10a0d6b7dce09aa792a0417f8391306835516951d496f674c0
+row_count: 624800
+columns:
+- name: RandomID
+  role: respondent_id
+- name: agency
+  role: org
+- name: Q1
+  role: item
+  allowed: ['1', '2', '3', '4', '5']
+- name: Q2
+  role: item
+  allowed: ['1', '2', '3', '4', '5']
+- name: Q3
+  role: item
+  allowed: ['1', '2', '3', '4', '5']
+- name: Q4
+  role: item
+  allowed: ['1', '2', '3', '4', '5']
+- name: Q5
+  role: item
+  allowed: ['1', '2', '3', '4', '5', X]
+- name: Q6
+  role: item
+  allowed: ['1', '2', '3', '4', '5', X]
+- name: Q7
+  role: item
+  allowed: ['1', '2', '3', '4', '5', X]
+- name: Q8
+  role: item
+  allowed: ['1', '2', '3', '4', '5', X]
+- name: Q9
+  role: item
+  allowed: ['1', '2', '3', '4', '5']
+- name: Q10
+  role: item
+  allowed: ['1', '2', '3', '4', '5', X]
+- name: Q11
+  role: item
+  allowed: ['1', '2', '3', '4', '5', X]
+- name: Q12
+  role: item
+  allowed: ['1', '2', '3', '4', '5', X]
+- name: Q13
+  role: item
+  allowed: ['1', '2', '3', '4', '5', X]
+- name: Q14
+  role: item
+  allowed: ['1', '2', '3', '4', '5', X]
+- name: Q15
+  role: item
+  allowed: ['1', '2', '3', '4', '5', X]
+- name: Q16
+  role: item
+  allowed: ['1', '2', '3', '4', '5', X]
+- name: Q17
+  role: item
+  allowed: ['1', '2', '3', '4', '5']
+- name: Q18
+  role: item
+  allowed: ['1', '2', '3', '4', '5', X]
+- name: Q19
+  role: item
+  allowed: ['1', '2', '3', '4', '5', X]
+- name: Q20
+  role: item
+  allowed: ['1', '2', '3', '4', '5', X]
+- name: Q21
+  role: item
+  allowed: ['1', '2', '3', '4', '5', X]
+- name: Q22
+  role: item
+  allowed: ['1', '2', '3', '4', '5']
+- name: Q23
+  role: item
+  allowed: ['1', '2', '3', '4', '5']
+- name: Q24
+  role: item
+  allowed: ['1', '2', '3', '4', '5']
+- name: Q25
+  role: item
+  allowed: ['1', '2', '3', '4', '5']
+- name: Q26
+  role: item
+  allowed: ['1', '2', '3', '4', '5', X]
+- name: Q27
+  role: item
+  allowed: ['1', '2', '3', '4', '5', X]
+- name: Q28
+  role: item
+  allowed: ['1', '2', '3', '4', '5', X]
+- name: Q29
+  role: item
+  allowed: ['1', '2', '3', '4', '5', X]
+- name: Q30
+  role: item
+  allowed: ['1', '2', '3', '4', '5', X]
+- name: Q31
+  role: item
+  allowed: ['1', '2', '3', '4', '5', X]
+- name: Q32
+  role: item
+  allowed: ['1', '2', '3', '4', '5', X]
+- name: Q33
+  role: item
+  allowed: ['1', '2', '3', '4', '5']
+- name: Q34
+  role: item
+  allowed: ['1', '2', '3', '4', '5']
+- name: Q35
+  role: item
+  allowed: ['1', '2', '3', '4', '5']
+- name: Q36
+  role: item
+  allowed: ['1', '2', '3', '4', '5']
+- name: Q37
+  role: item
+  allowed: ['1', '2', '3', '4', '5']
+- name: Q38
+  role: item
+  allowed: ['1', '2', '3', '4', '5']
+- name: V1
+  role: item
+  allowed: ['1', '2', '3', '4']
+- name: V2A
+  role: item
+  allowed: ['1', '2', '3', '4', '5']
+- name: V2B
+  role: item
+  allowed: ['1', '2', '3', '4', '5']
+- name: V2C
+  role: item
+  allowed: ['1', '2', '3', '4', '5']
+- name: V3_01
+  role: item
+  allowed: ['0', '1']
+- name: V3_02
+  role: item
+  allowed: ['0', '1']
+- name: V3_03
+  role: item
+  allowed: ['0', '1']
+- name: V4
+  role: item
+  allowed: ['1', '2']
+- name: V5
+  role: item
+  allowed: ['1', '2', '3']
+- name: V6_01
+  role: item
+  allowed: ['1', '2', '3']
+- name: V6_02
+  role: item
+  allowed: ['1', '2', '3']
+- name: V6_03
+  role: item
+  allowed: ['1', '2', '3']
+- name: V6_04
+  role: item
+  allowed: ['1', '2', '3']
+- name: V6_05
+  role: item
+  allowed: ['1', '2', '3']
+- name: V6_06
+  role: item
+  allowed: ['1', '2', '3']
+- name: V6_07
+  role: item
+  allowed: ['1', '2', '3']
+- name: V6_08
+  role: item
+  allowed: ['1', '2', '3']
+- name: V6_09
+  role: item
+  allowed: ['1', '2', '3']
+- name: V6_10
+  role: item
+  allowed: ['1', '2', '3']
+- name: V6_11
+  role: item
+  allowed: ['1', '2', '3']
+- name: V6_12
+  role: item
+  allowed: ['1', '2', '3']
+- name: V6_13
+  role: item
+  allowed: ['1', '2', '3']
+- name: V6_14
+  role: item
+  allowed: ['1', '2', '3']
+- name: V7
+  role: item
+  allowed: ['1', '2', '3', '4', '5', X]
+- name: V8
+  role: item
+  allowed: ['1', '2', '3', '4', '5', X]
+- name: V9
+  role: item
+  allowed: ['1', '2', '3', '4', '5', X]
+- name: V10
+  role: item
+  allowed: ['1', '2', '3', '4', '5', X]
+- name: V11
+  role: item
+  allowed: ['1', '2', '3', '4', '5', X]
+- name: V12
+  role: item
+  allowed: ['1', '2', '3', '4', '5', X]
+- name: V13_01
+  role: item
+  allowed: ['1', '2', '3']
+- name: V13_02
+  role: item
+  allowed: ['1', '2', '3']
+- name: V13_03
+  role: item
+  allowed: ['1', '2', '3']
+- name: V13_04
+  role: item
+  allowed: ['1', '2', '3']
+- name: V13_05
+  role: item
+  allowed: ['1', '2', '3']
+- name: V13_06
+  role: item
+  allowed: ['1', '2', '3']
+- name: V13_07
+  role: item
+  allowed: ['1', '2', '3']
+- name: V13_08
+  role: item
+  allowed: ['1', '2', '3']
+- name: V13_09
+  role: item
+  allowed: ['1', '2', '3']
+- name: V13_10
+  role: item
+  allowed: ['1', '2', '3']
+- name: V13_11
+  role: item
+  allowed: ['1', '2', '3']
+- name: V13_12
+  role: item
+  allowed: ['1', '2', '3']
+- name: V14
+  role: item
+  allowed: ['1', '2', '3']
+- name: V15
+  role: item
+  allowed: ['1', '2', '3', '4', '5', X]
+- name: V16
+  role: item
+  allowed: ['1', '2', '3', '4', '5', X]
+- name: V17_01
+  role: item
+  allowed: ['1', '2', '3', '4', '5', X]
+- name: V17_02
+  role: item
+  allowed: ['1', '2', '3', '4', '5', X]
+- name: V17_03
+  role: item
+  allowed: ['1', '2', '3', '4', '5', X]
+- name: V17_04
+  role: item
+  allowed: ['1', '2', '3', '4', '5', X]
+- name: V17_05
+  role: item
+  allowed: ['1', '2', '3', '4', '5', X]
+- name: V17_06
+  role: item
+  allowed: ['1', '2', '3', '4', '5', X]
+- name: V18_01
+  role: item
+  allowed: ['1', '2', '3', '4', '5', X]
+- name: V18_02
+  role: item
+  allowed: ['1', '2', '3', '4', '5', X]
+- name: V18_03
+  role: item
+  allowed: ['1', '2', '3', '4', '5', X]
+- name: V18_04
+  role: item
+  allowed: ['1', '2', '3', '4', '5', X]
+- name: V18_05
+  role: item
+  allowed: ['1', '2', '3', '4', '5', X]
+- name: V18_06
+  role: item
+  allowed: ['1', '2', '3', '4', '5', X]
+- name: V19
+  role: item
+  allowed: ['1', '2', '3', '4', '5', X]
+- name: V20
+  role: item
+  allowed: ['1', '2', '3', '4', '5', X]
+- name: Q58
+  role: item
+  allowed: ['1', '2', '3', '4', '5', X]
+- name: Q59_01
+  role: item
+  allowed: ['0', '1']
+- name: Q59_02
+  role: item
+  allowed: ['0', '1']
+- name: Q59_03
+  role: item
+  allowed: ['0', '1']
+- name: Q59_04
+  role: item
+  allowed: ['0', '1']
+- name: Q59_05
+  role: item
+  allowed: ['0', '1']
+- name: Q59_06
+  role: item
+  allowed: ['0', '1']
+- name: Q60
+  role: item
+  allowed: ['1', '2', '3', '4', '5', X]
+- name: Q61
+  role: item
+  allowed: ['1', '2', '3', '4', '5', X]
+- name: Q62
+  role: item
+  allowed: ['1', '2', '3', '4', '5', X]
+- name: Q63
+  role: item
+  allowed: ['1', '2', '3', '4', '5', X]
+- name: Q64
+  role: item
+  allowed: ['1', '2', '3', '4', '5', X]
+- name: V21_01
+  role: item
+  allowed: ['0', '1']
+- name: V21_02
+  role: item
+  allowed: ['0', '1']
+- name: V21_03
+  role: item
+  allowed: ['0', '1']
+- name: V21_04
+  role: item
+  allowed: ['0', '1']
+- name: V21_05
+  role: item
+  allowed: ['0', '1']
+- name: V22_01
+  role: item
+  allowed: ['0', '1']
+- name: V22_02
+  role: item
+  allowed: ['0', '1']
+- name: V22_03
+  role: item
+  allowed: ['0', '1']
+- name: V22_04
+  role: item
+  allowed: ['0', '1']
+- name: V22_05
+  role: item
+  allowed: ['0', '1']
+- name: V23
+  role: item
+  allowed: ['1', '2', '3', '4', '5', X, Y]
+- name: V24
+  role: item
+  allowed: ['1', '2', '3', '4', '5', X, Y]
+- name: DRNO
+  role: demographic
+  allowed: [A, B, C, D]
+- name: DHISP
+  role: demographic
+  allowed: [A, B]
+- name: DDIS
+  role: demographic
+  allowed: [A, B]
+- name: DAGEGRP
+  role: demographic
+  allowed: [A, B]
+- name: DSUPER
+  role: demographic
+  allowed: [A, B]
+- name: DFEDTEN
+  role: demographic
+  allowed: [A, B, C]
+- name: DSEX
+  role: demographic
+  allowed: [A, B]
+- name: DMIL
+  role: demographic
+  allowed: [A, B]
+- name: DLEAVINGA
+  role: demographic
+  allowed: [A, B, C, D]
+- name: DLEAVINGB
+  role: demographic
+  allowed: [A, B, C, D]
+- name: DLEAVINGC
+  role: demographic
+  allowed: [A, B]
+- name: POSTWT
+  role: weight
+  rule: positive number, no blanks
