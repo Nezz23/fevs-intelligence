@@ -49,3 +49,5 @@ seeds:
     opm_published_results:
       +column_types: {measure_type: varchar, measure: varchar, wave: integer, published_pct_positive: integer,
                       source: varchar}
+    agency_names:
+      +column_types: {agency_code: varchar, agency_name: varchar, name_from_wave: integer}

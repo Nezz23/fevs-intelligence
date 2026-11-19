@@ -108,13 +108,39 @@ The full build needs OPM's public data files in `data/raw/` (downloaded from
 [opm.gov/fevs/public-data-file](https://www.opm.gov/fevs/public-data-file/)), unzipped to `data/extracted/<year>/`, then
 `make load build`.
 
+## The app
+
+`make app` opens a six-page People Analytics app that reads only the gold export in `app/data/`
+(1.5 MB of aggregates; `make export` regenerates it from the warehouse):
+
+| Page | What it does |
+|---|---|
+| Overview | The paradox headline, six 2024 KPIs with change and 13-year sparklines, one combined trend |
+| Happiness Paradox | Build a profile from four answers and see its intention to leave; all 16 profiles ranked; the gap over time |
+| Trends | Headline metrics or any of the rated questions, by year, governmentwide or per agency, with wording changes marked |
+| Agencies | Agency ranking against governmentwide for any metric and year; one agency's trends against the government |
+| Ask the data | An assistant that answers from gold only and cites the table it used |
+| Methodology | The OPM reconciliation table, survey method, question mapping, data-quality traps, limitations |
+
+**How the assistant stays honest.** A planner turns a question into one call to a fixed set of tools
+(a metric's value or trend, an agency ranking, the paradox, a question search). The default planner is
+rule-based; if a local Ollama model is running, it can plan instead, and its plan is validated against
+the same tools (anything invalid falls back to the rules). Templates write the answer from the tool's
+result, so no model ever writes a number. It declines questions about individuals, attaches a
+no-causation note to "why" questions, and answers "turnover" questions as stated intention, saying so.
+
+**Checks.** 44 Python tests, including every page rendering, the assistant's routing and guardrails,
+and an independent recomputation: pandas on OPM's raw 2024 file, bypassing dbt, matches the app's
+job satisfaction, Army supervisor trust, intention to leave and satisfied-but-leaving figures to 12
+decimal places.
+
 ## Privacy
 
 Only OPM's public release files are used. Respondent IDs stop at the raw layer (a dbt test checks that no
-later layer has them), every published result needs at least 10 respondents, and the planned public app
-reads only gold aggregates.
+later layer has them), every published result needs at least 10 respondents, and the app reads only gold
+aggregates; suppressed groups are exported with no values and no respondent count.
 
 ## Status
 
-Done: crosswalk, contracts, warehouse, tests, CI. Next: the People Analytics app, the analytics
-assistant that cites gold metrics, and the Snowflake deployment.
+Done: crosswalk, contracts, warehouse, tests, CI, the app and the assistant (local). Next: the Snowflake
+deployment and a public demo, both pending approval.

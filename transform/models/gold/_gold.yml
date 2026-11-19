@@ -78,3 +78,11 @@ models:
       - {name: pct_considering_leaving, data_type: double, data_tests: [share_between_0_and_1]}
       - {name: share_of_workforce, data_type: double, data_tests: [share_between_0_and_1]}
       - {name: is_suppressed, data_type: boolean}
+
+  - name: gld_opm_reconciliation
+    description: Our governmentwide figures beside OPM's published ones, with match / mismatch / not_scored.
+    config: {tags: [full_data]}
+    columns:
+      - name: status
+        data_tests:
+          - accepted_values: {arguments: {values: [match, mismatch, not_scored]}}

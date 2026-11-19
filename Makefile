@@ -3,7 +3,7 @@ PY := .venv/bin/python
 DBT := DBT_PROFILES_DIR=transform .venv/bin/dbt
 DBT_ARGS := --project-dir transform
 
-.PHONY: crosswalk contracts load build test docs
+.PHONY: crosswalk contracts load build test export app
 
 crosswalk:      ## rebuild the question crosswalk from the codebooks (fails on any unreviewed wording)
 	$(PY) -m survey_items.crosswalk
@@ -19,3 +19,9 @@ build:          ## seeds, models and every data test
 
 test:           ## Python unit tests
 	$(PY) -m pytest -q tests
+
+export:         ## write the gold layer to app/data (the only data the app reads)
+	$(PY) -m app.export_gold
+
+app:            ## launch the People Analytics app at http://localhost:8501
+	.venv/bin/streamlit run app/streamlit_app.py
