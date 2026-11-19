@@ -1,3 +1,4 @@
+{{ config(tags=["full_data"]) }}
 {#- Every governmentwide figure OPM published must equal ours once ours is rounded to a whole percent, as
     OPM rounds. A row returned here is a mismatch. Where our build does not score a published figure
     (2020 Performance Confidence: OPM trends the 2020 COVID-block items, whose stems the public codebook

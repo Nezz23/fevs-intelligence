@@ -1,0 +1,50 @@
+name: ci
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      DBT_PROFILES_DIR: transform
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install
+        run: pip install -r requirements.txt
+
+      - name: Unit tests (crosswalk rules, data contracts)
+        run: python -m pytest -q tests
+
+      - name: Land the sample, checking each wave against its data contract
+        run: python -m ingestion.load_duckdb --sample
+
+      # The whole project runs on a real ~1,000-row-per-wave sample of OPM's public files: every model and
+      # every data test, except the reconciliation with OPM's published figures, which needs every row.
+      # A full build takes seconds, so CI builds everything rather than only state:modified+.
+      - name: dbt build (DuckDB, sample)
+        run: dbt build --project-dir transform --target ci --exclude tag:full_data
+
+      - name: Keep the dbt artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: dbt-target
+          path: transform/target/*.json
+          retention-days: 7

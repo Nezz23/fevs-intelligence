@@ -96,16 +96,21 @@ def path_for(wave: int) -> Path:
     return CONTRACTS / f"fevs_{wave}.yml"
 
 
-def check(wave: int) -> dict:
-    """Return the contract if the file matches it; raise ContractViolation listing every difference."""
+def check(wave: int, path: Path | None = None, sample: bool = False) -> dict:
+    """Return the contract if the file matches it; raise ContractViolation listing every difference.
+
+    sample=True checks a sample of the file (the CI fixture): its columns and answer codes must match the
+    contract, but its name, size and checksum are its own."""
     contract = yaml.safe_load(path_for(wave).read_text())
-    path = data_file(wave)
+    path = path or data_file(wave)
     problems = []
-    if path.name != contract["source_file"]:
-        problems.append(f"file name changed: {contract['source_file']} -> {path.name}")
-    digest = sha256(path)
-    if digest != contract["sha256"]:
-        problems.append(f"file content changed (sha256 {contract['sha256'][:12]}... -> {digest[:12]}...)")
+    digest = None
+    if not sample:
+        if path.name != contract["source_file"]:
+            problems.append(f"file name changed: {contract['source_file']} -> {path.name}")
+        digest = sha256(path)
+        if digest != contract["sha256"]:
+            problems.append(f"file content changed (sha256 {contract['sha256'][:12]}... -> {digest[:12]}...)")
     expected = [c["name"] for c in contract["columns"]]
     actual = header(path)
     for c in expected:
@@ -114,11 +119,11 @@ def check(wave: int) -> dict:
     for c in actual:
         if c not in expected:
             problems.append(f"column added: {c}")
-    if not problems and expected != actual:
+    if not [p for p in problems if "column" in p] and expected != actual:
         problems.append("columns reordered")
-    if digest != contract["sha256"] and not [p for p in problems if "column" in p]:
+    if (sample or digest != contract["sha256"]) and not [p for p in problems if "column" in p]:
         rows, domains = profile(path)
-        if rows != contract["row_count"]:
+        if not sample and rows != contract["row_count"]:
             problems.append(f"row count changed: {contract['row_count']} -> {rows}")
         for c in contract["columns"]:
             new = set(domains.get(c["name"]) or []) - set(c.get("allowed", []))
@@ -144,7 +149,8 @@ def _dump(contract: dict) -> str:
 
 
 def waves() -> list[int]:
-    return sorted(int(p.name) for p in EXTRACTED.iterdir() if p.is_dir())
+    """Every wave with a contract: the contracts, not the downloaded files, define the warehouse."""
+    return sorted(int(p.stem.split("_")[1]) for p in CONTRACTS.glob("fevs_*.yml"))
 
 
 if __name__ == "__main__":

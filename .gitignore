@@ -12,3 +12,4 @@ warehouse/
 transform/target/
 transform/logs/
 logs/
+transform/.user.yml
