@@ -30,6 +30,30 @@ UNTRENDED = "untrended option"
 SEVERITY = {"unchanged": 0, "same": 1, "reworded": 2}
 
 
+# Five-point scales where 4-5 is the favorable end. OPM's "percent positive" is the weighted share of 4-5
+# among 1-5 answers; "Do Not Know" / "No Basis to Judge" (X) is left out of the denominator.
+FAVORABILITY = {
+    "agreement": ("strongly disagree", "disagree", "neither agree nor disagree", "agree", "strongly agree"),
+    "satisfaction": ("very dissatisfied", "dissatisfied", "neither satisfied nor dissatisfied", "satisfied",
+                     "very satisfied"),
+    "quality": ("very poor", "poor", "fair", "good", "very good"),
+    # OPM scores these as positive at "most of the time" / "always" (Performance Confidence Index).
+    "frequency": ("never", "rarely", "sometimes", "most of the time", "always"),
+}
+LABEL_TYPOS = {"sometime": "sometimes"}  # as printed in some codebooks
+
+
+def scale_type(scale: tuple) -> str:
+    labels = tuple(LABEL_TYPOS.get(label, label) for _, label in scale)
+    if [code for code, _ in scale] == ["1", "2", "3", "4", "5"]:
+        for name, expected in FAVORABILITY.items():
+            if labels == expected:
+                return name
+    if len(scale) == 1:
+        return "checkbox"
+    return "categorical" if scale else "unknown"
+
+
 class CrosswalkError(ValueError):
     """The item catalog and the reviewed decisions disagree; the message lists every problem."""
 
@@ -161,7 +185,7 @@ def build(rows: list[dict], decisions: dict[frozenset, tuple[str, str]]) -> tupl
                           "first_wave": keys[0][0], "last_wave": keys[-1][0], "n_waves": len(keys),
                           "waves": " ".join(str(w) for w in waves),
                           "wording_breaks": " ".join(str(w) for w in breaks),
-                          "response_scale": json.dumps(dict(scale))})
+                          "scale_type": scale_type(scale), "response_scale": json.dumps(dict(scale))})
 
     for (wave, code), n in nodes.items():
         if not n:

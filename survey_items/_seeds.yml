@@ -1,0 +1,40 @@
+version: 2
+
+seeds:
+  - name: question_crosswalk
+    description: Every (wave, item code) mapped to one canonical question. Built by survey_items/crosswalk.py.
+    data_tests:
+      - unique_combination: {columns: [wave, item_code]}
+    columns:
+      - name: question_id
+        data_tests:
+          - not_null: {config: {where: "wording_status <> 'redacted'"}}
+          - relationships: {to: ref('question_catalog'), field: question_id, config: {where: "question_id is not null"}}
+      - name: wording_status
+        data_tests:
+          - accepted_values: {arguments: {values: [first, unchanged, same, reworded, redacted]}}
+  - name: question_catalog
+    columns:
+      - name: question_id
+        data_tests: [unique, not_null]
+      - name: scale_type
+        data_tests:
+          - accepted_values: {arguments: {values: [agreement, satisfaction, quality, frequency, categorical, checkbox, unknown]}}
+  - name: leave_intent_codes
+    data_tests:
+      - unique_combination: {columns: [wave, source_column, code]}
+  - name: opm_index_items
+    data_tests:
+      - unique_combination: {columns: [index_name, subindex_name, item_code_2024]}
+  - name: paradox_questions
+    columns:
+      - name: feature
+        data_tests: [unique, not_null]
+  - name: wording_decisions
+    columns:
+      - name: decision
+        data_tests:
+          - accepted_values: {arguments: {values: [same, reworded, different]}}
+  - name: opm_published_results
+    data_tests:
+      - unique_combination: {columns: [measure_type, measure, wave]}

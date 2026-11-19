@@ -1,0 +1,32 @@
+version: 2
+
+models:
+  - name: slv_respondents
+    description: Typed respondents with leave intent decoded per wave through leave_intent_codes.
+    columns:
+      - name: respondent_key
+        data_tests: [unique, not_null]
+      - name: weight
+        description: OPM's post-stratification weight (POSTWT).
+        data_tests: [positive]
+      - name: leave_intent
+        data_tests:
+          - accepted_values:
+              arguments: {values: ['no', yes_federal_job, yes_outside_government, yes_other, unverified, no_answer]}
+      - name: considering_leaving
+        description: Stated intention to leave within a year. NULL when the answer is missing or its code is unverified.
+  - name: slv_item_responses
+    description: >
+      One row per answered item, linked to its canonical question and scored. Incremental by wave: only
+      waves whose file or reviewed mapping changed are rebuilt.
+    data_tests:
+      - unique_combination: {columns: [wave, respondent_key, item_code]}
+    columns:
+      - name: question_id
+        data_tests: [not_null]
+      - name: favorability
+        data_tests:
+          - accepted_values: {arguments: {values: [positive, neutral, negative]}}
+      - name: respondent_key
+        data_tests:
+          - relationships: {to: ref('slv_respondents'), field: respondent_key}

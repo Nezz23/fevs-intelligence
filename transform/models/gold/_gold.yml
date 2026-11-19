@@ -1,0 +1,80 @@
+version: 2
+
+models:
+  - name: gld_question_results
+    description: Survey-weighted results per rating question, wave and agency. Suppressed under the Rule of Ten.
+    config: {contract: {enforced: true}}
+    data_tests:
+      - unique_combination: {columns: [wave, question_id, org_level, agency_code]}
+      - suppressed_below_rule_of_ten:
+          count_column: respondents
+          value_columns: [weighted_respondents, pct_positive, pct_neutral, pct_negative, pct_do_not_know]
+    columns:
+      - {name: wave, data_type: integer}
+      - {name: question_id, data_type: varchar}
+      - {name: canonical_text, data_type: varchar}
+      - {name: scale_type, data_type: varchar}
+      - {name: org_level, data_type: varchar}
+      - {name: agency_code, data_type: varchar}
+      - {name: respondents, data_type: bigint}
+      - {name: weighted_respondents, data_type: double}
+      - {name: pct_positive, data_type: double, data_tests: [share_between_0_and_1]}
+      - {name: pct_neutral, data_type: double, data_tests: [share_between_0_and_1]}
+      - {name: pct_negative, data_type: double, data_tests: [share_between_0_and_1]}
+      - {name: pct_do_not_know, data_type: double, data_tests: [share_between_0_and_1]}
+      - {name: is_suppressed, data_type: boolean}
+      - {name: wording_status, data_type: varchar}
+
+  - name: gld_index_scores
+    description: OPM indices (2024 definitions) scored OPM's way, for every wave that asked all their items.
+    config: {contract: {enforced: true}}
+    data_tests:
+      - unique_combination: {columns: [wave, org_level, agency_code, index_name, subindex_name]}
+    columns:
+      - {name: wave, data_type: integer}
+      - {name: org_level, data_type: varchar}
+      - {name: agency_code, data_type: varchar}
+      - {name: index_name, data_type: varchar}
+      - {name: subindex_name, data_type: varchar}
+      - {name: items_defined, data_type: bigint}
+      - {name: items_asked, data_type: bigint}
+      - {name: score, data_type: double, data_tests: [share_between_0_and_1]}
+      - {name: is_complete, data_type: boolean}
+      - {name: min_item_respondents, data_type: bigint}
+
+  - name: gld_leave_intent
+    description: Stated intention to leave within a year (not turnover), per wave and agency. 2012 excluded.
+    config: {contract: {enforced: true}}
+    data_tests:
+      - unique_combination: {columns: [wave, org_level, agency_code]}
+      - suppressed_below_rule_of_ten:
+          count_column: respondents
+          value_columns: [pct_considering_leaving, pct_to_another_federal_job, pct_to_leave_government, pct_other_reason]
+    columns:
+      - {name: wave, data_type: integer}
+      - {name: org_level, data_type: varchar}
+      - {name: agency_code, data_type: varchar}
+      - {name: respondents, data_type: bigint}
+      - {name: pct_considering_leaving, data_type: double, data_tests: [share_between_0_and_1]}
+      - {name: pct_to_another_federal_job, data_type: double}
+      - {name: pct_to_leave_government, data_type: double}
+      - {name: pct_other_reason, data_type: double}
+      - {name: is_suppressed, data_type: boolean}
+
+  - name: gld_workplace_paradox
+    description: Intention to leave across 16 profiles of job satisfaction, supervisor trust, regard for senior leaders and workload.
+    config: {contract: {enforced: true}}
+    data_tests:
+      - unique_combination:
+          columns: [wave, job_satisfied, trusts_supervisor, respects_senior_leaders, workload_reasonable]
+    columns:
+      - {name: wave, data_type: integer}
+      - {name: job_satisfied, data_type: boolean}
+      - {name: trusts_supervisor, data_type: boolean}
+      - {name: respects_senior_leaders, data_type: boolean}
+      - {name: workload_reasonable, data_type: boolean}
+      - {name: respondents, data_type: bigint}
+      - {name: weighted_respondents, data_type: double}
+      - {name: pct_considering_leaving, data_type: double, data_tests: [share_between_0_and_1]}
+      - {name: share_of_workforce, data_type: double, data_tests: [share_between_0_and_1]}
+      - {name: is_suppressed, data_type: boolean}

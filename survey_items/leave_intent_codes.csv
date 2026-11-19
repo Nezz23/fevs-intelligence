@@ -1,0 +1,53 @@
+wave,source_column,code,leave_intent,verified,source
+2012,DLEAVING,A,unverified,false,"2012 codebook lists five options (No; retire; another federal job; job outside government; other) without codes, but the data holds four codes A-D"
+2012,DLEAVING,B,unverified,false,"2012 codebook lists five options without codes; the data holds four"
+2012,DLEAVING,C,unverified,false,"2012 codebook lists five options without codes; the data holds four"
+2012,DLEAVING,D,unverified,false,"2012 codebook lists five options without codes; the data holds four"
+2013,DLEAVING,A,no,true,2013 codebook
+2013,DLEAVING,B,yes_federal_job,true,2013 codebook
+2013,DLEAVING,C,yes_outside_government,true,2013 codebook
+2013,DLEAVING,D,yes_other,true,2013 codebook
+2014,DLEAVING,A,no,true,2014 codebook
+2014,DLEAVING,B,yes_federal_job,true,2014 codebook
+2014,DLEAVING,C,yes_outside_government,true,2014 codebook
+2014,DLEAVING,D,yes_other,true,2014 codebook
+2015,DLEAVING,A,no,true,2015 codebook
+2015,DLEAVING,B,yes_federal_job,true,2015 codebook
+2015,DLEAVING,C,yes_outside_government,true,2015 codebook
+2015,DLEAVING,D,yes_other,true,2015 codebook
+2016,DLEAVING,A,no,true,2016 codebook
+2016,DLEAVING,B,yes_federal_job,true,2016 codebook
+2016,DLEAVING,C,yes_outside_government,true,2016 codebook
+2016,DLEAVING,D,yes_other,true,2016 codebook
+2017,DLEAVING,A,no,true,2017 codebook
+2017,DLEAVING,B,yes_federal_job,true,2017 codebook
+2017,DLEAVING,C,yes_outside_government,true,2017 codebook
+2017,DLEAVING,D,yes_other,true,2017 codebook
+2018,DLEAVING,A,no,true,2018 codebook
+2018,DLEAVING,B,yes_federal_job,true,2018 codebook
+2018,DLEAVING,C,yes_outside_government,true,2018 codebook
+2018,DLEAVING,D,yes_other,true,2018 codebook
+2019,DLEAVING,A,no,true,2019 codebook
+2019,DLEAVING,B,yes_federal_job,true,2019 codebook
+2019,DLEAVING,C,yes_outside_government,true,2019 codebook
+2019,DLEAVING,D,yes_other,true,2019 codebook
+2020,DLEAVINGB,A,no,true,2020 codebook (asked about today: September-October 2020)
+2020,DLEAVINGB,B,yes_other,true,2020 codebook
+2020,DLEAVINGB,C,yes_federal_job,true,2020 codebook
+2020,DLEAVINGB,D,yes_outside_government,true,2020 codebook
+2021,DLEAVING,A,no,true,2021 codebook
+2021,DLEAVING,B,yes_other,true,2021 codebook
+2021,DLEAVING,C,yes_federal_job,true,2021 codebook
+2021,DLEAVING,D,yes_outside_government,true,2021 codebook
+2022,DLEAVING,A,no,true,2022 codebook
+2022,DLEAVING,B,yes_other,true,2022 codebook
+2022,DLEAVING,C,yes_federal_job,true,2022 codebook
+2022,DLEAVING,D,yes_outside_government,true,2022 codebook
+2023,DLEAVING,A,no,true,2023 codebook
+2023,DLEAVING,B,yes_other,true,2023 codebook
+2023,DLEAVING,C,yes_federal_job,true,2023 codebook
+2023,DLEAVING,D,yes_outside_government,true,2023 codebook
+2024,DLEAVING,A,no,true,2024 codebook
+2024,DLEAVING,B,yes_other,true,2024 codebook
+2024,DLEAVING,C,yes_federal_job,true,2024 codebook
+2024,DLEAVING,D,yes_outside_government,true,2024 codebook

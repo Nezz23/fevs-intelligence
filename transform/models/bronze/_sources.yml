@@ -1,0 +1,87 @@
+version: 2
+
+sources:
+  - name: raw
+    description: Each wave's OPM public data file, landed unchanged (all text) after its data contract passed.
+    schema: raw
+    tables:
+      - name: _loads
+        description: One row per landed wave, with the file's SHA-256 and contract version.
+      - name: fevs_2012
+        columns:
+          - name: POSTWT
+            data_tests: [not_null]
+          - name: _row_number
+            data_tests: [not_null, unique]
+      - name: fevs_2013
+        columns:
+          - name: POSTWT
+            data_tests: [not_null]
+          - name: _row_number
+            data_tests: [not_null, unique]
+      - name: fevs_2014
+        columns:
+          - name: POSTWT
+            data_tests: [not_null]
+          - name: _row_number
+            data_tests: [not_null, unique]
+      - name: fevs_2015
+        columns:
+          - name: POSTWT
+            data_tests: [not_null]
+          - name: _row_number
+            data_tests: [not_null, unique]
+      - name: fevs_2016
+        columns:
+          - name: POSTWT
+            data_tests: [not_null]
+          - name: _row_number
+            data_tests: [not_null, unique]
+      - name: fevs_2017
+        columns:
+          - name: POSTWT
+            data_tests: [not_null]
+          - name: _row_number
+            data_tests: [not_null, unique]
+      - name: fevs_2018
+        columns:
+          - name: POSTWT
+            data_tests: [not_null]
+          - name: _row_number
+            data_tests: [not_null, unique]
+      - name: fevs_2019
+        columns:
+          - name: POSTWT
+            data_tests: [not_null]
+          - name: _row_number
+            data_tests: [not_null, unique]
+      - name: fevs_2020
+        columns:
+          - name: POSTWT
+            data_tests: [not_null]
+          - name: _row_number
+            data_tests: [not_null, unique]
+      - name: fevs_2021
+        columns:
+          - name: POSTWT
+            data_tests: [not_null]
+          - name: _row_number
+            data_tests: [not_null, unique]
+      - name: fevs_2022
+        columns:
+          - name: POSTWT
+            data_tests: [not_null]
+          - name: _row_number
+            data_tests: [not_null, unique]
+      - name: fevs_2023
+        columns:
+          - name: POSTWT
+            data_tests: [not_null]
+          - name: _row_number
+            data_tests: [not_null, unique]
+      - name: fevs_2024
+        columns:
+          - name: POSTWT
+            data_tests: [not_null]
+          - name: _row_number
+            data_tests: [not_null, unique]

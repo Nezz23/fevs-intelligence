@@ -1,0 +1,29 @@
+index_name,subindex_name,item_code_2024,item_text_2024
+global_satisfaction,,Q46,I recommend my organization as a good place to work.
+global_satisfaction,,Q70,"Considering everything, how satisfied are you with your job?"
+global_satisfaction,,Q71,"Considering everything, how satisfied are you with your pay?"
+global_satisfaction,,Q72,"Considering everything, how satisfied are you with your organization?"
+performance_confidence,,Q20,Employees in my work unit meet the needs of our customers.
+performance_confidence,,Q21,Employees in my work unit contribute positively to my agency's performance.
+performance_confidence,,Q22,Employees in my work unit produce high-quality work.
+performance_confidence,,Q23,Employees in my work unit adapt to changing priorities.
+employee_engagement,intrinsic_work_experience,Q2,I feel encouraged to come up with new and better ways of doing things.
+employee_engagement,intrinsic_work_experience,Q3,My work gives me a feeling of personal accomplishment.
+employee_engagement,intrinsic_work_experience,Q4,I know what is expected of me on the job.
+employee_engagement,intrinsic_work_experience,Q6,My talents are used well in the workplace.
+employee_engagement,intrinsic_work_experience,Q7,I know how my work relates to the agency's goals.
+employee_engagement,leaders_lead,Q57,"In my organization, senior leaders generate high levels of motivation and commitment in the workforce."
+employee_engagement,leaders_lead,Q58,My organization's senior leaders maintain high standards of honesty and integrity.
+employee_engagement,leaders_lead,Q59,Managers communicate the goals of the organization.
+employee_engagement,leaders_lead,Q61,"Overall, how good a job do you feel is being done by the manager directly above your immediate supervisor?"
+employee_engagement,leaders_lead,Q62,I have a high level of respect for my organization's senior leaders.
+employee_engagement,supervisors,Q48,Supervisors in my work unit support employee development.
+employee_engagement,supervisors,Q50,My supervisor listens to what I have to say.
+employee_engagement,supervisors,Q51,My supervisor treats me with respect.
+employee_engagement,supervisors,Q52,I have trust and confidence in my supervisor.
+employee_engagement,supervisors,Q54,"Overall, how good a job do you feel is being done by your immediate supervisor?"
+employee_experience,,Q86,My job inspires me.
+employee_experience,,Q87,The work I do gives me a sense of accomplishment.
+employee_experience,,Q88,I feel a strong personal attachment to my organization.
+employee_experience,,Q89,I identify with the mission of my organization.
+employee_experience,,Q90,It is important to me that my work contribute to the common good.

@@ -1,0 +1,51 @@
+name: fevs_intelligence
+version: "1.0.0"
+config-version: 2
+profile: fevs_intelligence
+
+model-paths: ["models"]
+macro-paths: ["macros"]
+test-paths: ["tests"]
+# The reviewed reference tables live beside the code that builds them, outside the dbt folder.
+seed-paths: ["../survey_items"]
+clean-targets: ["target"]
+
+vars:
+  waves: [2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024]
+  # OPM's "Rule of Ten": no result is published for a group with fewer than 10 respondents.
+  min_cell_respondents: 10
+
+models:
+  fevs_intelligence:
+    bronze:
+      +schema: bronze
+      +materialized: view
+    silver:
+      +schema: silver
+      +materialized: table
+    gold:
+      +schema: gold
+      +materialized: table
+
+seeds:
+  fevs_intelligence:
+    +schema: reference
+    question_crosswalk:
+      +column_types: {wave: integer, item_code: varchar, question_id: varchar, item_text: varchar,
+                      wording_status: varchar, scale_source: varchar}
+    question_catalog:
+      +column_types: {question_id: varchar, canonical_text: varchar, first_wave: integer, last_wave: integer,
+                      n_waves: integer, waves: varchar, wording_breaks: varchar, scale_type: varchar,
+                      response_scale: varchar}
+    leave_intent_codes:
+      +column_types: {wave: integer, source_column: varchar, code: varchar, leave_intent: varchar,
+                      verified: boolean, source: varchar}
+    opm_index_items:
+      +column_types: {index_name: varchar, subindex_name: varchar, item_code_2024: varchar, item_text_2024: varchar}
+    wording_decisions:
+      +column_types: {text_a: varchar, text_b: varchar, decision: varchar, reason: varchar}
+    paradox_questions:
+      +column_types: {feature: varchar, item_code_2024: varchar, why: varchar}
+    opm_published_results:
+      +column_types: {measure_type: varchar, measure: varchar, wave: integer, published_pct_positive: integer,
+                      source: varchar}

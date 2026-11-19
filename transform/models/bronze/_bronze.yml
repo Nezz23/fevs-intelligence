@@ -1,0 +1,12 @@
+version: 2
+
+models:
+  - name: brz_respondents
+    description: One row per respondent per wave, as published, with the wave-specific column names harmonized.
+    columns:
+      - name: respondent_key
+        data_tests: [unique, not_null]
+      - name: weight_text
+        data_tests: [not_null]
+  - name: brz_item_responses
+    description: Each answered item, unpivoted from the wave's wide file. A view; silver materializes it.
