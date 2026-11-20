@@ -8,13 +8,23 @@
     Incremental by wave: a run only rebuilds waves whose source file (SHA-256) is new or changed, so adding
     the next survey year costs one wave's work, not thirteen. -#}
 {%- set ref_version = reference_version() %}
+{#- Decide which waves to rebuild before reading any answers: a wave is rebuilt when its landed file
+    (raw._loads) or the reviewed mapping changed since it was built. Filtering bronze on constant wave
+    values lets the database skip the other waves' unpivots entirely. -#}
+{%- set rebuild = var('waves') %}
+{%- if is_incremental() and execute %}
+    {%- set loaded = run_query("select wave, sha256 from " ~ source('raw', '_loads')) %}
+    {%- set done = run_query("select distinct wave, _file_sha256, _reference_version from " ~ this) %}
+    {%- set built = [] %}
+    {%- for r in done.rows %}{% do built.append(r[0] | int ~ '|' ~ r[1] ~ '|' ~ r[2]) %}{% endfor %}
+    {%- set rebuild = [] %}
+    {%- for r in loaded.rows %}
+        {%- if (r[0] | int ~ '|' ~ r[1] ~ '|' ~ ref_version) not in built %}{% do rebuild.append(r[0] | int) %}{% endif %}
+    {%- endfor %}
+{%- endif %}
 with responses as (
     select * from {{ ref('brz_item_responses') }}
-    {% if is_incremental() %}
-    {#- Rebuild a wave when its file changed or when the reviewed mapping changed. #}
-    where _file_sha256 || '{{ ref_version }}' not in
-        (select distinct _file_sha256 || _reference_version from {{ this }})
-    {% endif %}
+    where {% if rebuild %}wave in ({{ rebuild | join(', ') }}){% else %}1 = 0{% endif %}
 )
 select
     r.wave,

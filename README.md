@@ -51,9 +51,16 @@ flowchart LR
 | silver | Typed respondents; every answer linked to its canonical question and scored | Incremental: rebuilds only waves whose file or reviewed mapping changed |
 | gold | Question results, OPM indices, stated leave intent, the paradox profiles | Weighted by POSTWT; any group under 10 respondents is suppressed (OPM's Rule of Ten) |
 
-One dbt project runs on DuckDB (local and CI) and has a Snowflake target (`prod`); SQL that differs
-between them goes through adapter dispatch (`macros/reference_version.sql`). The Snowflake target is
-configured but has not been run yet.
+One dbt project runs on DuckDB (local and CI) and on Snowflake (`prod`); SQL that differs between them
+goes through adapter dispatch (`macros/reference_version.sql`, `macros/metrics.sql`).
+
+**On Snowflake.** `ingestion/load_snowflake.py` runs the same contract checks, PUTs each file to an
+internal stage and COPYs it into `FEVS.RAW`. `dbt build --target prod` then passes all 99 models and
+tests, including the OPM reconciliation, and every gold table matches the DuckDB build row for row
+(37,416 + 2,837 + 432 + 192 rows; largest numeric difference 7e-8, floating-point summation order).
+Setup is one script (`snowflake/setup.sql`): an X-Small warehouse that suspends after 60 s, a
+10-credit monthly resource monitor, a `TRANSFORMER` role scoped to one database and one warehouse, and
+a key-pair-only service user, so no password exists.
 
 ## What the data gets wrong if you trust it naively
 
@@ -90,9 +97,13 @@ Measured on an Apple M4 Pro MacBook, DuckDB 2.0.0, dbt-core 1.12.7:
 | Re-land a wave whose file and contract are unchanged | 0.24 s |
 | Draft one wave's contract (profile every column) | 2.1 s (was 44 s with one scan per column) |
 | silver item responses, full build (539,108,211 rows) | 51-59 s |
-| silver item responses, incremental run with nothing new | 3.0 s |
+| silver item responses, incremental run with nothing new | 1.4 s |
+| silver item responses, rebuild of one changed wave | 4.9 s |
 | `dbt build`, all 96 models, seeds and tests, full data | 40-43 s |
 | `dbt build` in CI on the committed sample | 5 s |
+| Snowflake (X-Small): land all 13 waves (PUT + COPY, mostly upload) | 9 min 41 s |
+| Snowflake (X-Small): `dbt build`, all 99 models and tests | 7 min 32 s |
+| Snowflake (X-Small): silver incremental run with nothing new | 6.2 s (84 s before waves were chosen ahead of the unpivot) |
 
 ## Run it
 
@@ -142,5 +153,5 @@ aggregates; suppressed groups are exported with no values and no respondent coun
 
 ## Status
 
-Done: crosswalk, contracts, warehouse, tests, CI, the app and the assistant (local). Next: the Snowflake
-deployment and a public demo, both pending approval.
+Done: crosswalk, contracts, warehouse on DuckDB and Snowflake, tests, CI, the app and the assistant.
+Next: S3 landing on AWS and a public demo of the app.
