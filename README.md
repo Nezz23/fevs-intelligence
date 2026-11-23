@@ -2,6 +2,8 @@
 
 **What makes people love, hate, or leave their jobs?**
 
+**Live app:** https://fevs-intelligence-nzayptg6rpfxgeeelmxiyx.streamlit.app/
+
 An analytics-engineering warehouse over every public wave (2012-2024) of OPM's Federal Employee Viewpoint
 Survey: 6.76 million completed surveys, 539 million item answers, 13 different file layouts.
 It turns them into survey-weighted, trend-safe People Analytics metrics that reconcile with OPM's own
